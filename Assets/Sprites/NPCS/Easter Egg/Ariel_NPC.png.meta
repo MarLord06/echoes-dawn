@@ -1,0 +1,1900 @@
+fileFormatVersion: 2
+guid: 8ba54d5e446cbaa44ba0bf855fec5eca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1448653993086786416
+    second: Ariel NPC_0
+  - first:
+      213: -5103803715840465165
+    second: Ariel NPC_1
+  - first:
+      213: 3474014920516313905
+    second: Ariel NPC_2
+  - first:
+      213: 6826830449956239932
+    second: Ariel NPC_3
+  - first:
+      213: 1963369598324173325
+    second: Ariel NPC_4
+  - first:
+      213: -8889638548799301689
+    second: Ariel NPC_5
+  - first:
+      213: 762945772772562642
+    second: Ariel NPC_6
+  - first:
+      213: -7376930616950699987
+    second: Ariel NPC_7
+  - first:
+      213: 72762570924891332
+    second: Ariel NPC_8
+  - first:
+      213: 6578941930717003738
+    second: Ariel NPC_9
+  - first:
+      213: -4476260648654443850
+    second: Ariel NPC_10
+  - first:
+      213: 7030852711555739034
+    second: Ariel NPC_11
+  - first:
+      213: -5523720271002864639
+    second: Ariel NPC_12
+  - first:
+      213: 2634520388074074749
+    second: Ariel NPC_13
+  - first:
+      213: -3873255431556118908
+    second: Ariel NPC_14
+  - first:
+      213: -1081726229005986685
+    second: Ariel NPC_15
+  - first:
+      213: 7295909371847389025
+    second: Ariel NPC_16
+  - first:
+      213: 6115400486746258352
+    second: Ariel NPC_17
+  - first:
+      213: -1990979474561071569
+    second: Ariel NPC_18
+  - first:
+      213: 7778382098765692657
+    second: Ariel NPC_19
+  - first:
+      213: -6986547155988281586
+    second: Ariel NPC_20
+  - first:
+      213: -8983680300514827512
+    second: Ariel NPC_21
+  - first:
+      213: -4173995232650279461
+    second: Ariel NPC_22
+  - first:
+      213: 638367312958611829
+    second: Ariel NPC_23
+  - first:
+      213: -8948621975871046720
+    second: Ariel NPC_24
+  - first:
+      213: 6495993423148111471
+    second: Ariel NPC_25
+  - first:
+      213: -4360228490753169218
+    second: Ariel NPC_26
+  - first:
+      213: 7423137981923750247
+    second: Ariel NPC_27
+  - first:
+      213: 251697675360053751
+    second: Ariel NPC_28
+  - first:
+      213: -7721716946741943997
+    second: Ariel NPC_29
+  - first:
+      213: -1220602435557122391
+    second: Ariel NPC_30
+  - first:
+      213: 4778251058529246204
+    second: Ariel NPC_31
+  - first:
+      213: -431793311938871478
+    second: Ariel NPC_32
+  - first:
+      213: 6104865489483154367
+    second: Ariel NPC_33
+  - first:
+      213: -2584064777904738171
+    second: Ariel NPC_34
+  - first:
+      213: 2364840051403331503
+    second: Ariel NPC_35
+  - first:
+      213: 269071050557268239
+    second: Ariel NPC_36
+  - first:
+      213: 7129042214860385996
+    second: Ariel NPC_37
+  - first:
+      213: -2112157490562870438
+    second: Ariel NPC_38
+  - first:
+      213: 2332077070433752295
+    second: Ariel NPC_39
+  - first:
+      213: 2366907154600101790
+    second: Ariel NPC_40
+  - first:
+      213: -6526178478766711557
+    second: Ariel NPC_41
+  - first:
+      213: -6371879545534559858
+    second: Ariel NPC_42
+  - first:
+      213: 3752820532094422533
+    second: Ariel NPC_43
+  - first:
+      213: 8105086262071012194
+    second: Ariel NPC_44
+  - first:
+      213: -5369904754961147155
+    second: Ariel NPC_45
+  - first:
+      213: 5132842543653915470
+    second: Ariel NPC_46
+  - first:
+      213: -9140574117366487860
+    second: Ariel NPC_47
+  - first:
+      213: -6522694778820999424
+    second: Ariel NPC_48
+  - first:
+      213: -8924326105962626220
+    second: Ariel NPC_49
+  - first:
+      213: -9036417405670387543
+    second: Ariel NPC_50
+  - first:
+      213: 953477092100043394
+    second: Ariel NPC_51
+  - first:
+      213: -4869039945379468814
+    second: Ariel NPC_52
+  - first:
+      213: 3622224657087239700
+    second: Ariel NPC_53
+  - first:
+      213: -454511284232789266
+    second: Ariel NPC_54
+  - first:
+      213: -8551521770296737275
+    second: Ariel NPC_55
+  - first:
+      213: -6778691665738410266
+    second: Ariel NPC_56
+  - first:
+      213: -2610733643909733170
+    second: Ariel NPC_57
+  - first:
+      213: 7484810967833012780
+    second: Ariel NPC_58
+  - first:
+      213: -3568382938767838596
+    second: Ariel NPC_59
+  - first:
+      213: 8855342965477361337
+    second: Ariel NPC_60
+  - first:
+      213: -7588936484016487695
+    second: Ariel NPC_61
+  - first:
+      213: -9161611084654227963
+    second: Ariel NPC_62
+  - first:
+      213: 3267083094423513533
+    second: Ariel NPC_63
+  - first:
+      213: 1410308555041320685
+    second: Ariel NPC_64
+  - first:
+      213: 7725244480992312504
+    second: Ariel NPC_65
+  - first:
+      213: 8512887025774657043
+    second: Ariel NPC_66
+  - first:
+      213: -4340945777427260207
+    second: Ariel NPC_67
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ariel_NPC_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 341
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4858274275f0e64439c38e9f4200a6a5
+      internalID: -842894432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ariel_NPC_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 341
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8e8ec431f7e9d45a8e261991bba4d9
+      internalID: -1422888911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ariel_NPC_2
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 341
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcfec1dce940817489e343276582a64a
+      internalID: 1551584699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ariel_NPC_3
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 341
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1ae1b6b4aeb074380d885b74d5ab3d
+      internalID: -287990405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ariel_NPC_4
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 341
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55efc0933c30d8048b1c994fcf69fcb9
+      internalID: -567697962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ariel_NPC_5
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 339
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc67e94c2ad599458c226d1b0a12bab
+      internalID: 87954500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ariel_NPC_6
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 341
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3711550d37f314e48ab1b568f607e1d1
+      internalID: -2091762653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ariel_NPC_7
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 341
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cdac7f198f6ece42accf86dd925d499
+      internalID: 598665913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ariel_NPC_8
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 342
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e51a026989822d4bba5f63c1b86087a
+      internalID: 244869330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ariel_NPC_9
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 341
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b731c7e0a481b4640bcceec69b690a7a
+      internalID: 1426446964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ariel_NPC_10
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 341
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec64b7f4575d8a49b2797746d90d0bc
+      internalID: 1995786795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ariel_NPC_11
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 293
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d11c24940e8adad4c8e37884134a655f
+      internalID: -892867068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ariel_NPC_12
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 293
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c643a692923d54c8868fc1fa561406
+      internalID: 965675492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ariel_NPC_13
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 293
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b45aacc7cbf4b649954a64c82056102
+      internalID: 71421570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ariel_NPC_14
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 293
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd443499230933d4799da84ee15fa305
+      internalID: 762141528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ariel_NPC_15
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 293
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38ea591b46e8534fb144ddf77cf4710
+      internalID: 33979939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ariel_NPC_16
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 292
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f48088ee2a050468409ed8aa4fe8c7
+      internalID: -349169499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ariel_NPC_17
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 294
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da62ebf63104ee44a68c4ba15a0fa07
+      internalID: 1412090946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ariel_NPC_18
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 293
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d83a165cedc8dc44a87de9473d5444a
+      internalID: -900125929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ariel_NPC_19
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 293
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0435cf9c4c5ed24a9ffb6185e1dd64e
+      internalID: -175458535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ariel_NPC_20
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 293
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0d6e8ac7bb5ff48888d5c5423b4e8a
+      internalID: -470349725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ariel_NPC_21
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 293
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e4949c288ca2347aaa53ef785a4e2c
+      internalID: -321770233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ariel_NPC_22
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 245
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c5bb566f16c6e4f89ac9406f0ae3c3
+      internalID: 1925451837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ariel_NPC_23
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 245
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47f797edcb0b2f45957f616262519de
+      internalID: 1890806501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ariel_NPC_24
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 245
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405810ae03708aa4497e9f0511eceed0
+      internalID: 1334799153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ariel_NPC_25
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 245
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514b6697f195b2b4283b8779bd13b00d
+      internalID: -2070579969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ariel_NPC_26
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 245
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93dc25fe92d14741b94ff193f0ae154
+      internalID: -1391659201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ariel_NPC_27
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 244
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8890b5e75b1d5f54eaa151cb517464d2
+      internalID: 941443390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ariel_NPC_28
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 246
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b344a62a96f4ed4fb24d45ec72f7e74
+      internalID: -2138869575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ariel_NPC_29
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 245
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac04fd6923d6dd541a969727857e39e0
+      internalID: 938800389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ariel_NPC_30
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 245
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd48dccc5ea5edc46b77304fbc513dd3
+      internalID: 841337983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ariel_NPC_31
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 245
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a7d9a1dae6fb04f88f50ee3488e814
+      internalID: 871385481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ariel_NPC_32
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 245
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd52123160d55f4aa86a67ed43a897e
+      internalID: 1423853925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ariel_NPC_33
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 197
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64de94581eedabd44823c25c13f919e3
+      internalID: -1101707062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ariel_NPC_34
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 197
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be291f6cea30914fb85fb8d274c2bb5
+      internalID: -904939549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ariel_NPC_35
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 197
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3f7c22316ff5e418d972616ea7f20e
+      internalID: 1066334126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ariel_NPC_36
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 197
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9f47e8f7c3dc242bab135d94d69e44
+      internalID: 786108535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ariel_NPC_37
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 197
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6e8fad8ece54f4aafd1d53f4cb961f
+      internalID: 1690714347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ariel_NPC_38
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 197
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4a7ad5b5c3b024189e2b844ff8be48
+      internalID: -2127069720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ariel_NPC_39
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 198
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46468c1337fffee4abfe41f606eeedaa
+      internalID: 2143399917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ariel_NPC_40
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 198
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d34c085b71d1b24ebc5915ac3981a54
+      internalID: 523367020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ariel_NPC_41
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 196
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53b6d456d92cf34c917b5ed4b465342
+      internalID: -1897238174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ariel_NPC_42
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 197
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866e7e5ff2c48664c849269b134715db
+      internalID: -2120643718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ariel_NPC_43
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 197
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c34f28218a936b4bba086f3b549d480
+      internalID: -1421839800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ariel_NPC_44
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 147
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a6d9a4c1c37834693693dce2d8659c
+      internalID: 2115432665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ariel_NPC_45
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 149
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e8fadb342f6c54eb25d5dedcc60a1f
+      internalID: -934575514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ariel_NPC_46
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 151
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87355ccca47e289498bc2b2388bf122a
+      internalID: -959831729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ariel_NPC_47
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 149
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42e9f595164d7d4cad6eb009d24c158
+      internalID: 1190531356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ariel_NPC_48
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 148
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d06f95c65e00c4493c7fb4b54da9a0
+      internalID: -1235799855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ariel_NPC_49
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 149
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d9a2d9d8b2ae445bde0a231571a140
+      internalID: 11848289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ariel_NPC_50
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 100
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f6dc9ce2f071241a83979e672ed9f2
+      internalID: 552453762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ariel_NPC_51
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 99
+        width: 29
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6948710887621d240818271e99aa8855
+      internalID: -126641969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ariel_NPC_52
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 103
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886f2c4a86962fc4ea56379d2e96111d
+      internalID: -160410444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ariel_NPC_53
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 100
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de8d665b1f53f84a8cd058983cb05b3
+      internalID: 1475398963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ariel_NPC_54
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 101
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6c78ea87d27ee4f9c753d6cfb96938
+      internalID: -1254662491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ariel_NPC_55
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 101
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce77ed9e352a1ba44984a46e3c11a731
+      internalID: 1927857608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ariel_NPC_56
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 52
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce9e7ac7ea93b24c81d4a6af6ce5244
+      internalID: -1795040255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ariel_NPC_57
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 51
+        width: 29
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e39c0440183ad468376c7013ab6aa7
+      internalID: 1226528153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ariel_NPC_58
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 55
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d31ff7b57526c04c83f4a33ca2e5107
+      internalID: 2011337048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ariel_NPC_59
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 52
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486da50989264904db33f020aa092e3a
+      internalID: 461212583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ariel_NPC_60
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 53
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8fb2259284cb7c498d1b6bbd89719ab
+      internalID: -112829779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ariel_NPC_61
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 53
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0317b35880f6dc94eb54c897173a2804
+      internalID: 1304313631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ariel_NPC_62
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 5
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8ff319084ba83459b20b33771ccfa9
+      internalID: 990766222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ariel_NPC_63
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 5
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be39f02611ace3d418887fbefab2d205
+      internalID: -1868997228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ariel_NPC_64
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 11
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaeee2c3d5479a741b66660004757646
+      internalID: 1745871718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ariel_NPC_65
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 3
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ebf0d6e4867a14b838c86be3526703
+      internalID: 648577064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ariel_NPC_66
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 5
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378b242436743204c86924e820e817a0
+      internalID: 1199353610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ariel_NPC_67
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 6
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1337fda52b08c994088789a61f97c465
+      internalID: -148661930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 48ef03e8bd3d53c4f910ed224675f878
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Ariel_NPC_0: -842894432
+      Ariel_NPC_1: -1422888911
+      Ariel_NPC_10: 1995786795
+      Ariel_NPC_11: -892867068
+      Ariel_NPC_12: 965675492
+      Ariel_NPC_13: 71421570
+      Ariel_NPC_14: 762141528
+      Ariel_NPC_15: 33979939
+      Ariel_NPC_16: -349169499
+      Ariel_NPC_17: 1412090946
+      Ariel_NPC_18: -900125929
+      Ariel_NPC_19: -175458535
+      Ariel_NPC_2: 1551584699
+      Ariel_NPC_20: -470349725
+      Ariel_NPC_21: -321770233
+      Ariel_NPC_22: 1925451837
+      Ariel_NPC_23: 1890806501
+      Ariel_NPC_24: 1334799153
+      Ariel_NPC_25: -2070579969
+      Ariel_NPC_26: -1391659201
+      Ariel_NPC_27: 941443390
+      Ariel_NPC_28: -2138869575
+      Ariel_NPC_29: 938800389
+      Ariel_NPC_3: -287990405
+      Ariel_NPC_30: 841337983
+      Ariel_NPC_31: 871385481
+      Ariel_NPC_32: 1423853925
+      Ariel_NPC_33: -1101707062
+      Ariel_NPC_34: -904939549
+      Ariel_NPC_35: 1066334126
+      Ariel_NPC_36: 786108535
+      Ariel_NPC_37: 1690714347
+      Ariel_NPC_38: -2127069720
+      Ariel_NPC_39: 2143399917
+      Ariel_NPC_4: -567697962
+      Ariel_NPC_40: 523367020
+      Ariel_NPC_41: -1897238174
+      Ariel_NPC_42: -2120643718
+      Ariel_NPC_43: -1421839800
+      Ariel_NPC_44: 2115432665
+      Ariel_NPC_45: -934575514
+      Ariel_NPC_46: -959831729
+      Ariel_NPC_47: 1190531356
+      Ariel_NPC_48: -1235799855
+      Ariel_NPC_49: 11848289
+      Ariel_NPC_5: 87954500
+      Ariel_NPC_50: 552453762
+      Ariel_NPC_51: -126641969
+      Ariel_NPC_52: -160410444
+      Ariel_NPC_53: 1475398963
+      Ariel_NPC_54: -1254662491
+      Ariel_NPC_55: 1927857608
+      Ariel_NPC_56: -1795040255
+      Ariel_NPC_57: 1226528153
+      Ariel_NPC_58: 2011337048
+      Ariel_NPC_59: 461212583
+      Ariel_NPC_6: -2091762653
+      Ariel_NPC_60: -112829779
+      Ariel_NPC_61: 1304313631
+      Ariel_NPC_62: 990766222
+      Ariel_NPC_63: -1868997228
+      Ariel_NPC_64: 1745871718
+      Ariel_NPC_65: 648577064
+      Ariel_NPC_66: 1199353610
+      Ariel_NPC_67: -148661930
+      Ariel_NPC_7: 598665913
+      Ariel_NPC_8: 244869330
+      Ariel_NPC_9: 1426446964
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

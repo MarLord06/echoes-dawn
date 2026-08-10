@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5889af80c0498c444b621f8ad9a37040, type: 3}
+  m_Name: Secta
+  m_EditorClassIdentifier: 
+  actorName: ???
+  portrait: {fileID: -6042080212214238554, guid: 2cb7d1167367c6f4ebf879c79bf0848e, type: 3}

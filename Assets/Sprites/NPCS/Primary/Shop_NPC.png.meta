@@ -1,0 +1,1898 @@
+fileFormatVersion: 2
+guid: 3783bea3e59fa8147830d749dc925b56
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5932974698171945000
+    second: Shop NPC_0
+  - first:
+      213: -8021768832198180593
+    second: Shop NPC_1
+  - first:
+      213: -8625885598891676592
+    second: Shop NPC_2
+  - first:
+      213: 1014630973335058197
+    second: Shop NPC_3
+  - first:
+      213: -3250090572297284807
+    second: Shop NPC_4
+  - first:
+      213: 5701082933378904096
+    second: Shop NPC_5
+  - first:
+      213: 9147802836198563005
+    second: Shop NPC_6
+  - first:
+      213: -1988779818872268954
+    second: Shop NPC_7
+  - first:
+      213: -893053365981690519
+    second: Shop NPC_8
+  - first:
+      213: 7196113216674702181
+    second: Shop NPC_9
+  - first:
+      213: -919080782568780158
+    second: Shop NPC_10
+  - first:
+      213: 2747188321889473839
+    second: Shop NPC_11
+  - first:
+      213: -8696290979224425505
+    second: Shop NPC_12
+  - first:
+      213: 6852392080812516176
+    second: Shop NPC_13
+  - first:
+      213: 2584005170258006075
+    second: Shop NPC_14
+  - first:
+      213: 2126500913787381920
+    second: Shop NPC_15
+  - first:
+      213: 2826646457992995184
+    second: Shop NPC_16
+  - first:
+      213: 8024888959258393751
+    second: Shop NPC_17
+  - first:
+      213: 6104357190996771147
+    second: Shop NPC_18
+  - first:
+      213: -7099676800084484371
+    second: Shop NPC_19
+  - first:
+      213: 1142617382867212782
+    second: Shop NPC_20
+  - first:
+      213: -602011768234516576
+    second: Shop NPC_21
+  - first:
+      213: -3056080569766575704
+    second: Shop NPC_22
+  - first:
+      213: -2951750629170864998
+    second: Shop NPC_23
+  - first:
+      213: 1233980157066221858
+    second: Shop NPC_24
+  - first:
+      213: 7007306778457909854
+    second: Shop NPC_25
+  - first:
+      213: 4119346213700644569
+    second: Shop NPC_26
+  - first:
+      213: -4281696763867457814
+    second: Shop NPC_27
+  - first:
+      213: 2631201344737626431
+    second: Shop NPC_28
+  - first:
+      213: -6154630539453832287
+    second: Shop NPC_29
+  - first:
+      213: 8356288355845939679
+    second: Shop NPC_30
+  - first:
+      213: -5608359077423998444
+    second: Shop NPC_31
+  - first:
+      213: 3590174003934695958
+    second: Shop NPC_32
+  - first:
+      213: 6267022211252243737
+    second: Shop NPC_33
+  - first:
+      213: 5390458882515097003
+    second: Shop NPC_34
+  - first:
+      213: 6069452441891070511
+    second: Shop NPC_35
+  - first:
+      213: -2626133859712895971
+    second: Shop NPC_36
+  - first:
+      213: 6403249406733922786
+    second: Shop NPC_37
+  - first:
+      213: 5481044650553292020
+    second: Shop NPC_38
+  - first:
+      213: -2891604984467706214
+    second: Shop NPC_39
+  - first:
+      213: -8715828347367861235
+    second: Shop NPC_40
+  - first:
+      213: -3442069993009265343
+    second: Shop NPC_41
+  - first:
+      213: 3093273287390949427
+    second: Shop NPC_42
+  - first:
+      213: -4550580111450746821
+    second: Shop NPC_43
+  - first:
+      213: 4477025060232318749
+    second: Shop NPC_44
+  - first:
+      213: 3731094619263684935
+    second: Shop NPC_45
+  - first:
+      213: 4226035336305728078
+    second: Shop NPC_46
+  - first:
+      213: 8889143079113673381
+    second: Shop NPC_47
+  - first:
+      213: -271826509770136598
+    second: Shop NPC_48
+  - first:
+      213: 5230705122429820729
+    second: Shop NPC_49
+  - first:
+      213: 5994449559879047127
+    second: Shop NPC_50
+  - first:
+      213: -2948618905222783022
+    second: Shop NPC_51
+  - first:
+      213: 6111282939665903367
+    second: Shop NPC_52
+  - first:
+      213: 2771151524646123114
+    second: Shop NPC_53
+  - first:
+      213: 3002598870977966300
+    second: Shop NPC_54
+  - first:
+      213: -5354471936081344028
+    second: Shop NPC_55
+  - first:
+      213: 4789039327418189536
+    second: Shop NPC_56
+  - first:
+      213: 5421996810818106850
+    second: Shop NPC_57
+  - first:
+      213: -6295905750219227474
+    second: Shop NPC_58
+  - first:
+      213: 6132262349246307120
+    second: Shop NPC_59
+  - first:
+      213: 1241096475961615308
+    second: Shop NPC_60
+  - first:
+      213: -8973531413893130818
+    second: Shop NPC_61
+  - first:
+      213: -6536652751480401592
+    second: Shop NPC_62
+  - first:
+      213: 8317389380731592038
+    second: Shop NPC_63
+  - first:
+      213: -4524228740567224811
+    second: Shop NPC_64
+  - first:
+      213: 2886394793750144044
+    second: Shop NPC_65
+  - first:
+      213: 3428165561521962089
+    second: Shop NPC_66
+  - first:
+      213: 6771463602267481337
+    second: Shop NPC_67
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Shop NPC_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 340
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8205be1cd09265250800000000000000
+      internalID: 5932974698171945000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop NPC_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 340
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01078e8fb3fca090800000000000000
+      internalID: -8021768832198180593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop NPC_2
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 340
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05c67ecefb2ba4880800000000000000
+      internalID: -8625885598891676592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop NPC_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 340
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517beb79e71b41e00800000000000000
+      internalID: 1014630973335058197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop NPC_4
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 340
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 933df5e18db55e2d0800000000000000
+      internalID: -3250090572297284807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop NPC_5
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 338
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0207717e8b05e1f40800000000000000
+      internalID: 5701082933378904096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop NPC_6
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 340
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc1dee563683fe70800000000000000
+      internalID: 9147802836198563005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop NPC_7
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 340
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66717afaa4f6664e0800000000000000
+      internalID: -1988779818872268954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop NPC_8
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 341
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965c13bf1bc3b93f0800000000000000
+      internalID: -893053365981690519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop NPC_9
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 340
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 563a36b08dabdd360800000000000000
+      internalID: 7196113216674702181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop NPC_10
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 340
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e8913d5e4ce33f0800000000000000
+      internalID: -919080782568780158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop NPC_11
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 292
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f25d2593939ff1620800000000000000
+      internalID: 2747188321889473839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop NPC_12
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 292
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdbe4e7ed61905780800000000000000
+      internalID: -8696290979224425505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop NPC_13
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 292
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 053a78eba46981f50800000000000000
+      internalID: 6852392080812516176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop NPC_14
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 292
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30500ff20b3cd320800000000000000
+      internalID: 2584005170258006075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop NPC_15
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 292
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a827dc7059d28d10800000000000000
+      internalID: 2126500913787381920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop NPC_16
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 291
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 071e9423af34a3720800000000000000
+      internalID: 2826646457992995184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop NPC_17
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 293
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79cfc82adf12e5f60800000000000000
+      internalID: 8024888959258393751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop NPC_18
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 292
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b41c67fd58807b450800000000000000
+      internalID: 6104357190996771147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop NPC_19
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 292
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deed1e6e091e87d90800000000000000
+      internalID: -7099676800084484371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop NPC_20
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 292
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee99cf3b4746bdf00800000000000000
+      internalID: 1142617382867212782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop NPC_21
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 292
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0afd6c38c7935a7f0800000000000000
+      internalID: -602011768234516576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop NPC_22
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 244
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a10712e9ee9695d0800000000000000
+      internalID: -3056080569766575704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop NPC_23
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 244
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c1cba11764907d0800000000000000
+      internalID: -2951750629170864998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop NPC_24
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 244
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22910d93a6aff1110800000000000000
+      internalID: 1233980157066221858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop NPC_25
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 244
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5aab228364fe3160800000000000000
+      internalID: 7007306778457909854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop NPC_26
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 244
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de2a7e5e8bda2930800000000000000
+      internalID: 4119346213700644569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop NPC_27
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 243
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae69db98a7b5494c0800000000000000
+      internalID: -4281696763867457814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop NPC_28
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 245
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f39cd9daea7e38420800000000000000
+      internalID: 2631201344737626431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop NPC_29
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 244
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3651c022c569aa0800000000000000
+      internalID: -6154630539453832287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop NPC_30
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 244
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd12ee27cff77f370800000000000000
+      internalID: 8356288355845939679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop NPC_31
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 244
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a1e49222b1b22b0800000000000000
+      internalID: -5608359077423998444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop NPC_32
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 244
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6129e5a2c3cd2d130800000000000000
+      internalID: 3590174003934695958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop NPC_33
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 196
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91d4c2d3f7fe8f650800000000000000
+      internalID: 6267022211252243737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop NPC_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 196
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba559a43bc1ceca40800000000000000
+      internalID: 5390458882515097003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop NPC_35
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 196
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f226b0ca6d60b3450800000000000000
+      internalID: 6069452441891070511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop NPC_36
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 196
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14ff2f1b291e8bd0800000000000000
+      internalID: -2626133859712895971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop NPC_37
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 196
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e13b98d869ecd850800000000000000
+      internalID: 6403249406733922786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop NPC_38
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 196
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f4b842e115901c40800000000000000
+      internalID: 5481044650553292020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop NPC_39
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 197
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9ead064694fed7d0800000000000000
+      internalID: -2891604984467706214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop NPC_40
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 197
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d04dbd7eb482b0780800000000000000
+      internalID: -8715828347367861235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop NPC_41
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 195
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 145c6a6049f4b30d0800000000000000
+      internalID: -3442069993009265343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop NPC_42
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 196
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33074208aa38dea20800000000000000
+      internalID: 3093273287390949427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop NPC_43
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 196
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b305507af7719d0c0800000000000000
+      internalID: -4550580111450746821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop NPC_44
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 146
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f4bad6296912e30800000000000000
+      internalID: 4477025060232318749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop NPC_45
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 148
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 741559cb9c287c330800000000000000
+      internalID: 3731094619263684935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop NPC_46
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 150
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a50c47fb4e5aa30800000000000000
+      internalID: 4226035336305728078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop NPC_47
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 148
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aa4134a8849c5b70800000000000000
+      internalID: 8889143079113673381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop NPC_48
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 147
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae3ed94ca374a3cf0800000000000000
+      internalID: -271826509770136598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop NPC_49
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 148
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93fde3b6892379840800000000000000
+      internalID: 5230705122429820729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop NPC_50
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 99
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d756906d10903350800000000000000
+      internalID: 5994449559879047127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop NPC_51
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 97
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dfd1386ab66417d0800000000000000
+      internalID: -2948618905222783022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop NPC_52
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 102
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70fe0b46473afc450800000000000000
+      internalID: 6111282939665903367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop NPC_53
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 99
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a66705521ab157620800000000000000
+      internalID: 2771151524646123114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop NPC_54
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 100
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd071a3c3cf5ba920800000000000000
+      internalID: 3002598870977966300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop NPC_55
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 100
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9c212b42811b5b0800000000000000
+      internalID: -5354471936081344028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop NPC_56
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 51
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e6032615e5167240800000000000000
+      internalID: 4789039327418189536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop NPC_57
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 49
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e53d1a5f5dce3b40800000000000000
+      internalID: 5421996810818106850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop NPC_58
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 54
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaef7dac31370a8a0800000000000000
+      internalID: -6295905750219227474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop NPC_59
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 51
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b1454dd1c2a1550800000000000000
+      internalID: 6132262349246307120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop NPC_60
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 52
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc36ea55ba2493110800000000000000
+      internalID: 1241096475961615308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop NPC_61
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 52
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5571e09bc977380800000000000000
+      internalID: -8973531413893130818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop NPC_62
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 4
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8415ee784f42945a0800000000000000
+      internalID: -6536652751480401592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop NPC_63
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 4
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ddc19039d4d6370800000000000000
+      internalID: 8317389380731592038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop NPC_64
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 10
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ea0eb4ee5b631c0800000000000000
+      internalID: -4524228740567224811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop NPC_65
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 2
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c24a30ba5c88e0820800000000000000
+      internalID: 2886394793750144044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop NPC_66
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 4
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c7ebd3a6a439f20800000000000000
+      internalID: 3428165561521962089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop NPC_67
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 5
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f4e3aef44219fd50800000000000000
+      internalID: 6771463602267481337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Shop NPC_0: 5932974698171945000
+      Shop NPC_1: -8021768832198180593
+      Shop NPC_10: -919080782568780158
+      Shop NPC_11: 2747188321889473839
+      Shop NPC_12: -8696290979224425505
+      Shop NPC_13: 6852392080812516176
+      Shop NPC_14: 2584005170258006075
+      Shop NPC_15: 2126500913787381920
+      Shop NPC_16: 2826646457992995184
+      Shop NPC_17: 8024888959258393751
+      Shop NPC_18: 6104357190996771147
+      Shop NPC_19: -7099676800084484371
+      Shop NPC_2: -8625885598891676592
+      Shop NPC_20: 1142617382867212782
+      Shop NPC_21: -602011768234516576
+      Shop NPC_22: -3056080569766575704
+      Shop NPC_23: -2951750629170864998
+      Shop NPC_24: 1233980157066221858
+      Shop NPC_25: 7007306778457909854
+      Shop NPC_26: 4119346213700644569
+      Shop NPC_27: -4281696763867457814
+      Shop NPC_28: 2631201344737626431
+      Shop NPC_29: -6154630539453832287
+      Shop NPC_3: 1014630973335058197
+      Shop NPC_30: 8356288355845939679
+      Shop NPC_31: -5608359077423998444
+      Shop NPC_32: 3590174003934695958
+      Shop NPC_33: 6267022211252243737
+      Shop NPC_34: 5390458882515097003
+      Shop NPC_35: 6069452441891070511
+      Shop NPC_36: -2626133859712895971
+      Shop NPC_37: 6403249406733922786
+      Shop NPC_38: 5481044650553292020
+      Shop NPC_39: -2891604984467706214
+      Shop NPC_4: -3250090572297284807
+      Shop NPC_40: -8715828347367861235
+      Shop NPC_41: -3442069993009265343
+      Shop NPC_42: 3093273287390949427
+      Shop NPC_43: -4550580111450746821
+      Shop NPC_44: 4477025060232318749
+      Shop NPC_45: 3731094619263684935
+      Shop NPC_46: 4226035336305728078
+      Shop NPC_47: 8889143079113673381
+      Shop NPC_48: -271826509770136598
+      Shop NPC_49: 5230705122429820729
+      Shop NPC_5: 5701082933378904096
+      Shop NPC_50: 5994449559879047127
+      Shop NPC_51: -2948618905222783022
+      Shop NPC_52: 6111282939665903367
+      Shop NPC_53: 2771151524646123114
+      Shop NPC_54: 3002598870977966300
+      Shop NPC_55: -5354471936081344028
+      Shop NPC_56: 4789039327418189536
+      Shop NPC_57: 5421996810818106850
+      Shop NPC_58: -6295905750219227474
+      Shop NPC_59: 6132262349246307120
+      Shop NPC_6: 9147802836198563005
+      Shop NPC_60: 1241096475961615308
+      Shop NPC_61: -8973531413893130818
+      Shop NPC_62: -6536652751480401592
+      Shop NPC_63: 8317389380731592038
+      Shop NPC_64: -4524228740567224811
+      Shop NPC_65: 2886394793750144044
+      Shop NPC_66: 3428165561521962089
+      Shop NPC_67: 6771463602267481337
+      Shop NPC_7: -1988779818872268954
+      Shop NPC_8: -893053365981690519
+      Shop NPC_9: 7196113216674702181
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

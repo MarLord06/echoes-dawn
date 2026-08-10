@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "86364143427",
+    "firebase_url": "https://drpg-experimental-default-rtdb.firebaseio.com",
+    "project_id": "drpg-experimental",
+    "storage_bucket": "drpg-experimental.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86364143427:android:383e407e74a5e6e37eb9f6",
+        "android_client_info": {
+          "package_name": "com.Puce.EchoesofDawn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPsYQLSw5VQnmpLMntGokf4I7L_Y6JeA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

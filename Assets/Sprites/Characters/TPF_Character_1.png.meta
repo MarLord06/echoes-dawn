@@ -1,0 +1,1898 @@
+fileFormatVersion: 2
+guid: c6237b552e89cdf40bf2d01ab6e34017
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2293322817111253692
+    second: TPF_Character_1_0
+  - first:
+      213: 7402231633731345199
+    second: TPF_Character_1_1
+  - first:
+      213: 8753789468389970916
+    second: TPF_Character_1_2
+  - first:
+      213: -1727355166810861026
+    second: TPF_Character_1_3
+  - first:
+      213: 1756677587417623894
+    second: TPF_Character_1_4
+  - first:
+      213: 2596829215073757362
+    second: TPF_Character_1_5
+  - first:
+      213: -2222701193007583885
+    second: TPF_Character_1_6
+  - first:
+      213: 4244231365967844512
+    second: TPF_Character_1_7
+  - first:
+      213: 6841064918723631933
+    second: TPF_Character_1_8
+  - first:
+      213: 6208933324985897641
+    second: TPF_Character_1_9
+  - first:
+      213: -6370007268646545381
+    second: TPF_Character_1_10
+  - first:
+      213: -5823516007661825017
+    second: TPF_Character_1_11
+  - first:
+      213: 7369218571108300877
+    second: TPF_Character_1_12
+  - first:
+      213: -1627795609332038537
+    second: TPF_Character_1_13
+  - first:
+      213: 4721621238809049213
+    second: TPF_Character_1_14
+  - first:
+      213: 3135800334747380723
+    second: TPF_Character_1_15
+  - first:
+      213: 6027068774661871451
+    second: TPF_Character_1_16
+  - first:
+      213: 674854521608920975
+    second: TPF_Character_1_17
+  - first:
+      213: -1506339315938919176
+    second: TPF_Character_1_18
+  - first:
+      213: -600008066884569965
+    second: TPF_Character_1_19
+  - first:
+      213: 373226774285650961
+    second: TPF_Character_1_20
+  - first:
+      213: 152804630944058478
+    second: TPF_Character_1_21
+  - first:
+      213: 6014128714010801669
+    second: TPF_Character_1_22
+  - first:
+      213: 2113606991035543972
+    second: TPF_Character_1_23
+  - first:
+      213: 1554048284718513679
+    second: TPF_Character_1_24
+  - first:
+      213: 1875874949307648578
+    second: TPF_Character_1_25
+  - first:
+      213: 4178605073660802418
+    second: TPF_Character_1_26
+  - first:
+      213: -2265269233535638709
+    second: TPF_Character_1_27
+  - first:
+      213: 1952891575057713842
+    second: TPF_Character_1_28
+  - first:
+      213: -3750374609392560831
+    second: TPF_Character_1_29
+  - first:
+      213: -7094445589250312268
+    second: TPF_Character_1_30
+  - first:
+      213: -7672147870326964029
+    second: TPF_Character_1_31
+  - first:
+      213: 6564265896793157126
+    second: TPF_Character_1_32
+  - first:
+      213: -5453568588687855738
+    second: TPF_Character_1_33
+  - first:
+      213: 4546197211459923332
+    second: TPF_Character_1_34
+  - first:
+      213: -6611375807371820967
+    second: TPF_Character_1_35
+  - first:
+      213: 1168973155822615991
+    second: TPF_Character_1_36
+  - first:
+      213: 2794428701086023000
+    second: TPF_Character_1_37
+  - first:
+      213: 6654044993615390401
+    second: TPF_Character_1_38
+  - first:
+      213: -442532007440794910
+    second: TPF_Character_1_39
+  - first:
+      213: 8045720254290914894
+    second: TPF_Character_1_40
+  - first:
+      213: 4094519565023154547
+    second: TPF_Character_1_41
+  - first:
+      213: 4812144438758421859
+    second: TPF_Character_1_42
+  - first:
+      213: -2243204805961564142
+    second: TPF_Character_1_43
+  - first:
+      213: 1630044965028162307
+    second: TPF_Character_1_44
+  - first:
+      213: -7989636556414837625
+    second: TPF_Character_1_45
+  - first:
+      213: 2182926867096186276
+    second: TPF_Character_1_46
+  - first:
+      213: -4017322429302726572
+    second: TPF_Character_1_47
+  - first:
+      213: 1442892387953294593
+    second: TPF_Character_1_48
+  - first:
+      213: -6913744546257673001
+    second: TPF_Character_1_49
+  - first:
+      213: 8795356992412464463
+    second: TPF_Character_1_50
+  - first:
+      213: 8507633500293202932
+    second: TPF_Character_1_51
+  - first:
+      213: -8001113820959834266
+    second: TPF_Character_1_52
+  - first:
+      213: -8850281875030157843
+    second: TPF_Character_1_53
+  - first:
+      213: -6448115626026987290
+    second: TPF_Character_1_54
+  - first:
+      213: 7568611229932271194
+    second: TPF_Character_1_55
+  - first:
+      213: 7051955172413524234
+    second: TPF_Character_1_56
+  - first:
+      213: -2242791551918677971
+    second: TPF_Character_1_57
+  - first:
+      213: 6657195778649580814
+    second: TPF_Character_1_58
+  - first:
+      213: 2773562777787975829
+    second: TPF_Character_1_59
+  - first:
+      213: -3630573860299402340
+    second: TPF_Character_1_60
+  - first:
+      213: 4353410106173200017
+    second: TPF_Character_1_61
+  - first:
+      213: -8097688288618047875
+    second: TPF_Character_1_62
+  - first:
+      213: -795844542032471174
+    second: TPF_Character_1_63
+  - first:
+      213: 739886562450062973
+    second: TPF_Character_1_64
+  - first:
+      213: 2086347871688480694
+    second: TPF_Character_1_65
+  - first:
+      213: -5979521806911443321
+    second: TPF_Character_1_66
+  - first:
+      213: 3912874910307803256
+    second: TPF_Character_1_67
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TPF_Character_1_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 339
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb2e63d93f483df10800000000000000
+      internalID: 2293322817111253692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPF_Character_1_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 340
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b57b1c3720ab660800000000000000
+      internalID: 7402231633731345199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPF_Character_1_2
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 339
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e390f55425bb7970800000000000000
+      internalID: 8753789468389970916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPF_Character_1_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 340
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e129d41b0a33708e0800000000000000
+      internalID: -1727355166810861026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPF_Character_1_4
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 340
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65deaee55f8f06810800000000000000
+      internalID: 1756677587417623894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPF_Character_1_5
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 338
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b8e3da996ac90420800000000000000
+      internalID: 2596829215073757362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPF_Character_1_6
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 339
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d22f49a016721e0800000000000000
+      internalID: -2222701193007583885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPF_Character_1_7
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 340
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a49511c0f986ea30800000000000000
+      internalID: 4244231365967844512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPF_Character_1_8
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 341
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b98ed4c4850fe50800000000000000
+      internalID: 6841064918723631933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPF_Character_1_9
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 340
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a29ed576ff8a2650800000000000000
+      internalID: 6208933324985897641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPF_Character_1_10
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 340
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b189aaf83203997a0800000000000000
+      internalID: -6370007268646545381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPF_Character_1_11
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 292
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 704148b9b07be2fa0800000000000000
+      internalID: -5823516007661825017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPF_Character_1_12
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 292
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d483f132f39b44660800000000000000
+      internalID: 7369218571108300877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPF_Character_1_13
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 292
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 774c2da8488e869e0800000000000000
+      internalID: -1627795609332038537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPF_Character_1_14
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 292
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78372f1081968140800000000000000
+      internalID: 4721621238809049213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPF_Character_1_15
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 292
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb2b2f4ac9948b20800000000000000
+      internalID: 3135800334747380723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPF_Character_1_16
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 290
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57d1962e1374a350800000000000000
+      internalID: 6027068774661871451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPF_Character_1_17
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 293
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8fd093ac909d5900800000000000000
+      internalID: 674854521608920975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPF_Character_1_18
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 292
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc71428f58681be0800000000000000
+      internalID: -1506339315938919176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPF_Character_1_19
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 292
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 394f9f697d75ca7f0800000000000000
+      internalID: -600008066884569965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPF_Character_1_20
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 292
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c06f516c7fd2500800000000000000
+      internalID: 373226774285650961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPF_Character_1_21
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 292
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c8473900fde1200800000000000000
+      internalID: 152804630944058478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPF_Character_1_22
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 244
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5063710833a767350800000000000000
+      internalID: 6014128714010801669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPF_Character_1_23
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 244
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a1b4772c5a055d10800000000000000
+      internalID: 2113606991035543972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPF_Character_1_24
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 244
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0eb3766ea6119510800000000000000
+      internalID: 1554048284718513679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPF_Character_1_25
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 244
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a498cd352780a10800000000000000
+      internalID: 1875874949307648578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPF_Character_1_26
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 244
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2757230ec236df930800000000000000
+      internalID: 4178605073660802418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPF_Character_1_27
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 243
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b43ac7e42a52090e0800000000000000
+      internalID: -2265269233535638709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPF_Character_1_28
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 245
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba0b286a801a1b10800000000000000
+      internalID: 1952891575057713842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPF_Character_1_29
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 244
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1451380c92ef3fbc0800000000000000
+      internalID: -3750374609392560831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPF_Character_1_30
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 244
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7f56613577b8d90800000000000000
+      internalID: -7094445589250312268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPF_Character_1_31
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 244
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c044e4292e078590800000000000000
+      internalID: -7672147870326964029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPF_Character_1_32
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 244
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e219ddd05f81b50800000000000000
+      internalID: 6564265896793157126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPF_Character_1_33
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 196
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f280943480154b0800000000000000
+      internalID: -5453568588687855738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPF_Character_1_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 196
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48da0fbe646571f30800000000000000
+      internalID: 4546197211459923332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPF_Character_1_35
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 196
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 950cdf45bbcaf34a0800000000000000
+      internalID: -6611375807371820967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPF_Character_1_36
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 196
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd36c844e6093010800000000000000
+      internalID: 1168973155822615991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPF_Character_1_37
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 196
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d736e191ec7c620800000000000000
+      internalID: 2794428701086023000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPF_Character_1_38
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 194
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c669e3caaae75c50800000000000000
+      internalID: 6654044993615390401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPF_Character_1_39
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 197
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea30cedb7fcbd9f0800000000000000
+      internalID: -442532007440794910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPF_Character_1_40
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 197
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4eec2771f328af60800000000000000
+      internalID: 8045720254290914894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPF_Character_1_41
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 195
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3719717c9d7a2d830800000000000000
+      internalID: 4094519565023154547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPF_Character_1_42
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 196
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36531180fdb28c240800000000000000
+      internalID: 4812144438758421859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPF_Character_1_43
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 196
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210463e2d198ed0e0800000000000000
+      internalID: -2243204805961564142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPF_Character_1_44
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 146
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30bea6462451f9610800000000000000
+      internalID: 1630044965028162307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPF_Character_1_45
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 148
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c1b6202eb1f1190800000000000000
+      internalID: -7989636556414837625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPF_Character_1_46
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 150
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4adace38b605b4e10800000000000000
+      internalID: 2182926867096186276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPF_Character_1_47
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 147
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 450a335098a9f38c0800000000000000
+      internalID: -4017322429302726572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPF_Character_1_48
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 147
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d32196bfe260410800000000000000
+      internalID: 1442892387953294593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPF_Character_1_49
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 147
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4648c37f17d00a0800000000000000
+      internalID: -6913744546257673001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPF_Character_1_50
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 99
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f453e75b5926f0a70800000000000000
+      internalID: 8795356992412464463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPF_Character_1_51
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 98
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f38038d79f211670800000000000000
+      internalID: 8507633500293202932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPF_Character_1_52
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 102
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f783e1f5556f090800000000000000
+      internalID: -8001113820959834266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPF_Character_1_53
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 99
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5dfb4868b7d2580800000000000000
+      internalID: -8850281875030157843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPF_Character_1_54
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 99
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e014007001b386a0800000000000000
+      internalID: -6448115626026987290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPF_Character_1_55
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 100
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a56352b30db190960800000000000000
+      internalID: 7568611229932271194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPF_Character_1_56
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 51
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09cfafcdd39dd160800000000000000
+      internalID: 7051955172413524234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPF_Character_1_57
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 49
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d20e3a267f000e0e0800000000000000
+      internalID: -2242791551918677971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPF_Character_1_58
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 54
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0563a21a4c136c50800000000000000
+      internalID: 6657195778649580814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPF_Character_1_59
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 51
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5984c44c6acad7620800000000000000
+      internalID: 2773562777787975829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPF_Character_1_60
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 52
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9319064f4c9d9dc0800000000000000
+      internalID: -3630573860299402340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPF_Character_1_61
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 52
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1969c0c1d6b6a6c30800000000000000
+      internalID: 4353410106173200017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPF_Character_1_62
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 4
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d769417a76b3f9f80800000000000000
+      internalID: -8097688288618047875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPF_Character_1_63
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 4
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b98b70b9794f4f0800000000000000
+      internalID: -795844542032471174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPF_Character_1_64
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 10
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ebbe098ea944a00800000000000000
+      internalID: 739886562450062973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPF_Character_1_65
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 2
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b752e9d55234fc10800000000000000
+      internalID: 2086347871688480694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPF_Character_1_66
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 2
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e6754f898740da0800000000000000
+      internalID: -5979521806911443321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPF_Character_1_67
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 5
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8706f67eff25d4630800000000000000
+      internalID: 3912874910307803256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TPF_Character_1_0: 2293322817111253692
+      TPF_Character_1_1: 7402231633731345199
+      TPF_Character_1_10: -6370007268646545381
+      TPF_Character_1_11: -5823516007661825017
+      TPF_Character_1_12: 7369218571108300877
+      TPF_Character_1_13: -1627795609332038537
+      TPF_Character_1_14: 4721621238809049213
+      TPF_Character_1_15: 3135800334747380723
+      TPF_Character_1_16: 6027068774661871451
+      TPF_Character_1_17: 674854521608920975
+      TPF_Character_1_18: -1506339315938919176
+      TPF_Character_1_19: -600008066884569965
+      TPF_Character_1_2: 8753789468389970916
+      TPF_Character_1_20: 373226774285650961
+      TPF_Character_1_21: 152804630944058478
+      TPF_Character_1_22: 6014128714010801669
+      TPF_Character_1_23: 2113606991035543972
+      TPF_Character_1_24: 1554048284718513679
+      TPF_Character_1_25: 1875874949307648578
+      TPF_Character_1_26: 4178605073660802418
+      TPF_Character_1_27: -2265269233535638709
+      TPF_Character_1_28: 1952891575057713842
+      TPF_Character_1_29: -3750374609392560831
+      TPF_Character_1_3: -1727355166810861026
+      TPF_Character_1_30: -7094445589250312268
+      TPF_Character_1_31: -7672147870326964029
+      TPF_Character_1_32: 6564265896793157126
+      TPF_Character_1_33: -5453568588687855738
+      TPF_Character_1_34: 4546197211459923332
+      TPF_Character_1_35: -6611375807371820967
+      TPF_Character_1_36: 1168973155822615991
+      TPF_Character_1_37: 2794428701086023000
+      TPF_Character_1_38: 6654044993615390401
+      TPF_Character_1_39: -442532007440794910
+      TPF_Character_1_4: 1756677587417623894
+      TPF_Character_1_40: 8045720254290914894
+      TPF_Character_1_41: 4094519565023154547
+      TPF_Character_1_42: 4812144438758421859
+      TPF_Character_1_43: -2243204805961564142
+      TPF_Character_1_44: 1630044965028162307
+      TPF_Character_1_45: -7989636556414837625
+      TPF_Character_1_46: 2182926867096186276
+      TPF_Character_1_47: -4017322429302726572
+      TPF_Character_1_48: 1442892387953294593
+      TPF_Character_1_49: -6913744546257673001
+      TPF_Character_1_5: 2596829215073757362
+      TPF_Character_1_50: 8795356992412464463
+      TPF_Character_1_51: 8507633500293202932
+      TPF_Character_1_52: -8001113820959834266
+      TPF_Character_1_53: -8850281875030157843
+      TPF_Character_1_54: -6448115626026987290
+      TPF_Character_1_55: 7568611229932271194
+      TPF_Character_1_56: 7051955172413524234
+      TPF_Character_1_57: -2242791551918677971
+      TPF_Character_1_58: 6657195778649580814
+      TPF_Character_1_59: 2773562777787975829
+      TPF_Character_1_6: -2222701193007583885
+      TPF_Character_1_60: -3630573860299402340
+      TPF_Character_1_61: 4353410106173200017
+      TPF_Character_1_62: -8097688288618047875
+      TPF_Character_1_63: -795844542032471174
+      TPF_Character_1_64: 739886562450062973
+      TPF_Character_1_65: 2086347871688480694
+      TPF_Character_1_66: -5979521806911443321
+      TPF_Character_1_67: 3912874910307803256
+      TPF_Character_1_7: 4244231365967844512
+      TPF_Character_1_8: 6841064918723631933
+      TPF_Character_1_9: 6208933324985897641
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

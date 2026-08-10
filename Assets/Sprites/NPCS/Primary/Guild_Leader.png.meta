@@ -1,0 +1,1900 @@
+fileFormatVersion: 2
+guid: b759b9b95bafd5e4d94bdea1fb90cecc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 79720484587337617
+    second: Guild Leader_0
+  - first:
+      213: 2156866506730054635
+    second: Guild Leader_1
+  - first:
+      213: 1472017878830948159
+    second: Guild Leader_2
+  - first:
+      213: -8983886007895554960
+    second: Guild Leader_3
+  - first:
+      213: 3731847130399312507
+    second: Guild Leader_4
+  - first:
+      213: -998957751549483513
+    second: Guild Leader_5
+  - first:
+      213: -6831309454637511853
+    second: Guild Leader_6
+  - first:
+      213: -3309342390270991164
+    second: Guild Leader_7
+  - first:
+      213: -4776440447262241962
+    second: Guild Leader_8
+  - first:
+      213: -753452977700313443
+    second: Guild Leader_9
+  - first:
+      213: 390513299154901022
+    second: Guild Leader_10
+  - first:
+      213: -5299993062434494838
+    second: Guild Leader_11
+  - first:
+      213: 4776300635911173542
+    second: Guild Leader_12
+  - first:
+      213: -747787777239648352
+    second: Guild Leader_13
+  - first:
+      213: 7665934965040261732
+    second: Guild Leader_14
+  - first:
+      213: 155963213337288369
+    second: Guild Leader_15
+  - first:
+      213: -7362716837504021352
+    second: Guild Leader_16
+  - first:
+      213: -4240568855444821545
+    second: Guild Leader_17
+  - first:
+      213: 2699515728850315643
+    second: Guild Leader_18
+  - first:
+      213: -7957492677178376264
+    second: Guild Leader_19
+  - first:
+      213: 4796308828680428692
+    second: Guild Leader_20
+  - first:
+      213: 4504261453987339297
+    second: Guild Leader_21
+  - first:
+      213: 3374262685682615076
+    second: Guild Leader_22
+  - first:
+      213: 2600668547701055442
+    second: Guild Leader_23
+  - first:
+      213: -1871771968658216501
+    second: Guild Leader_24
+  - first:
+      213: 5107634958446458196
+    second: Guild Leader_25
+  - first:
+      213: -2428186007548196928
+    second: Guild Leader_26
+  - first:
+      213: 4445183847178374445
+    second: Guild Leader_27
+  - first:
+      213: 2492138216347849952
+    second: Guild Leader_28
+  - first:
+      213: -7760634238252902837
+    second: Guild Leader_29
+  - first:
+      213: 5371424687528153504
+    second: Guild Leader_30
+  - first:
+      213: 2329524004724706665
+    second: Guild Leader_31
+  - first:
+      213: -2687574737963926870
+    second: Guild Leader_32
+  - first:
+      213: -3429273190209001297
+    second: Guild Leader_33
+  - first:
+      213: 6487885188817630934
+    second: Guild Leader_34
+  - first:
+      213: 4970241575303051882
+    second: Guild Leader_35
+  - first:
+      213: -4660087361077127692
+    second: Guild Leader_36
+  - first:
+      213: -721161610756464244
+    second: Guild Leader_37
+  - first:
+      213: 9175443089986192579
+    second: Guild Leader_38
+  - first:
+      213: -520338755500168176
+    second: Guild Leader_39
+  - first:
+      213: 8199753113686258301
+    second: Guild Leader_40
+  - first:
+      213: -549654876189851524
+    second: Guild Leader_41
+  - first:
+      213: -4009631619256801062
+    second: Guild Leader_42
+  - first:
+      213: 1305106150645856929
+    second: Guild Leader_43
+  - first:
+      213: 8958061328564006641
+    second: Guild Leader_44
+  - first:
+      213: -822480250096009792
+    second: Guild Leader_45
+  - first:
+      213: -1930307248549038236
+    second: Guild Leader_46
+  - first:
+      213: 8670122362524545779
+    second: Guild Leader_47
+  - first:
+      213: 8463964195339706482
+    second: Guild Leader_48
+  - first:
+      213: 6038651299619435415
+    second: Guild Leader_49
+  - first:
+      213: 4337930497086302665
+    second: Guild Leader_50
+  - first:
+      213: -6623823552079465051
+    second: Guild Leader_51
+  - first:
+      213: -1045405729133312841
+    second: Guild Leader_52
+  - first:
+      213: -2041363885510298658
+    second: Guild Leader_53
+  - first:
+      213: 5714899526859453514
+    second: Guild Leader_54
+  - first:
+      213: 3540281392387598231
+    second: Guild Leader_55
+  - first:
+      213: -1396923836455889744
+    second: Guild Leader_56
+  - first:
+      213: 132307876050849146
+    second: Guild Leader_57
+  - first:
+      213: -8425626466406936098
+    second: Guild Leader_58
+  - first:
+      213: -5187019006632002534
+    second: Guild Leader_59
+  - first:
+      213: -7941941719483316942
+    second: Guild Leader_60
+  - first:
+      213: 1311544247408624887
+    second: Guild Leader_61
+  - first:
+      213: -770460774685557249
+    second: Guild Leader_62
+  - first:
+      213: 7292752094238665526
+    second: Guild Leader_63
+  - first:
+      213: -9121575932373888350
+    second: Guild Leader_64
+  - first:
+      213: -7880285057224742799
+    second: Guild Leader_65
+  - first:
+      213: -1284535912676638781
+    second: Guild Leader_66
+  - first:
+      213: -1589411552517460039
+    second: Guild Leader_67
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Guild_Leader_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 341
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb4a274c95b7f041845f03bfa2d185b
+      internalID: 1094441014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guild_Leader_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 341
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84629c66c526a24c9c22a53a078173a
+      internalID: 2063487519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guild_Leader_2
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 341
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48e7279bf6e84344b942ad93b0b8949
+      internalID: -2068472402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guild_Leader_3
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 341
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c462841832821da409c124b680150cff
+      internalID: -108183793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guild_Leader_4
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 341
+        width: 11
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9824a0c0301a2944b2601be1afb9588
+      internalID: -1597502941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guild_Leader_5
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 339
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac9dc43d22e33943a649acb0aeded34
+      internalID: -2097702712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guild_Leader_6
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 341
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c1a8b9b941e8d49a4e7a308ae9e13f
+      internalID: 531177913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guild_Leader_7
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 341
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6170ff9c054dffd47ab5ee2c47870670
+      internalID: -968252439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guild_Leader_8
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 342
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0387e1e1b223340804716e3d1905d7
+      internalID: -852697813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guild_Leader_9
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 341
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd8688be32da0f459c82ba373132080
+      internalID: 902086863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guild_Leader_10
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 341
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba21fe3f24fa734fb5732a6959ccde5
+      internalID: 448097724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guild_Leader_11
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 293
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c6d45e079075649a557e8a7748087f
+      internalID: 1475992357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guild_Leader_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 293
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527653fb0d4389e419a6d029f09870a0
+      internalID: -1443476237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guild_Leader_13
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 293
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7801357837e10364ba4ba51392913c0c
+      internalID: 438265070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guild_Leader_14
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 293
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ebb6fb1efbb324bba500652d4928d3
+      internalID: 1273368453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guild_Leader_15
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 293
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae74f1764491d994e8f3e8f8bde7f5a3
+      internalID: 1451850683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guild_Leader_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 292
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e0401db32bb754a847d8ff99c11812
+      internalID: -975856747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guild_Leader_17
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 294
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe269f16dbd759344a17806e78d9f16a
+      internalID: -1026589891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guild_Leader_18
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 293
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022e5a4e3598ae04abd8cd67f9d5ecb7
+      internalID: 1820950934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guild_Leader_19
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 293
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec5fb3d8b1f1b44890563004f512f2b
+      internalID: 1362743048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guild_Leader_20
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 293
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3a62375fbaed940ad5f14191ac8a9f
+      internalID: -223869141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guild_Leader_21
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 293
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64fdaea1d7e7e944eb55404938034bea
+      internalID: -841399722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guild_Leader_22
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 245
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb8430e9a2ce1f4abd4c26835ad2aed
+      internalID: -343764865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guild_Leader_23
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 245
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741bcc52c4621e54f8cfb62c36f505de
+      internalID: -602485385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guild_Leader_24
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 245
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ccf03391aadce4aaaee85a0380f830
+      internalID: -1194787657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guild_Leader_25
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 245
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98e369c03d3802458d472c0bdfd69b0
+      internalID: 945202638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guild_Leader_26
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 245
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8902daaba50304f860e8da1ae446a8
+      internalID: 1127411417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guild_Leader_27
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 244
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edacc04fb1f149b4481c99351b28e15e
+      internalID: 1468561320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guild_Leader_28
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 246
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8a195c4417f0a43a4589f5da64f4e6
+      internalID: 1394103409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guild_Leader_29
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 245
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00afadf6846a1744dad8efab8b2b7780
+      internalID: 495279993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guild_Leader_30
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 245
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f66f7340724b9947a9e1015da69f51f
+      internalID: -503866475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guild_Leader_31
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 245
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54f37b082de6624d8b4f37ef9655a9d
+      internalID: 1442418703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guild_Leader_32
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 245
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e526cbcc1bb324ba9027eaa45a13f4
+      internalID: 1773050568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guild_Leader_33
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 197
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a2e65e6eca95d4a80b618cc0c36aee
+      internalID: -1960145029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guild_Leader_34
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 197
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc57c223d5fe1744e899f04b537fbaa1
+      internalID: -2115791967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guild_Leader_35
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 197
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c70a57c00df994d8cd51d9d825f04a
+      internalID: 796703367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guild_Leader_36
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 197
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41159a4c3897384cb5c473efb59b290
+      internalID: 713680508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guild_Leader_37
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 197
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62d547dc9464a649bc9fe1dd0fb88da
+      internalID: 1357018395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guild_Leader_38
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 197
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646c163f5c8fc6144a3e0935019d06bd
+      internalID: -1446105985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guild_Leader_39
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 198
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45eda037fabdc7a45a91200cf65956b0
+      internalID: 1423932973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guild_Leader_40
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 198
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6994935fac171f5479ec1ebbe0957434
+      internalID: 1936256569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guild_Leader_41
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 196
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fefd74f341045fe46b7680c3852f463a
+      internalID: 1610166913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guild_Leader_42
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 197
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f308afc52465c4abae7ceb6648ddde
+      internalID: 1649247269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guild_Leader_43
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 197
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01c6615d6ac95649b6e6f67b54de6b5
+      internalID: 559613877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guild_Leader_44
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 147
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ca283f18ada1544bf67334eccc9aa3
+      internalID: -1146010297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guild_Leader_45
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 149
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e5a7a740a90314da6abebe34d27fd6
+      internalID: -238443707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guild_Leader_46
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 151
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d40e768811aa345bf3813bc17a558f
+      internalID: -2138290651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guild_Leader_47
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 149
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987e4a72efa230b448ce122a9ae4999c
+      internalID: -1488544858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guild_Leader_48
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 148
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac77c622e87b07409234343d3824350
+      internalID: 1772844952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guild_Leader_49
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 149
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b573c5cf2f71924ea693fd361ea47e1
+      internalID: 2094760420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guild_Leader_50
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 100
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c602f36a9425864888d41fa2c7820cf
+      internalID: -1006132795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guild_Leader_51
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 97
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb5e32f2d3f29e47850ec26d460041a
+      internalID: 1141242324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guild_Leader_52
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 103
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7fe504e4c9389848b94f6a97337a2e1
+      internalID: 1520555002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guild_Leader_53
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 100
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050d2e8093906db4992bbe18a1a1168a
+      internalID: -991885690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guild_Leader_54
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 101
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f684c377a5d319a4d851814311e6485c
+      internalID: -1829367527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guild_Leader_55
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 101
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f862613dc696cb64f89b1795aeb10ba7
+      internalID: -2076080618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guild_Leader_56
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 52
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d49fddefe130247aa516c6332f3635
+      internalID: -553002508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guild_Leader_57
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 49
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a6a577b800a42448e7521f5ce92335
+      internalID: -1052537250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guild_Leader_58
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 55
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3d49e938b30d04fb2b1003e86bb1aa
+      internalID: -1238579484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guild_Leader_59
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 52
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953069b66f79e384aa15d38fd6a2063a
+      internalID: -1010129228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guild_Leader_60
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 53
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53fa769798211f448b3b01a08b9181b5
+      internalID: -1223060520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guild_Leader_61
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 53
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77a955cb2f498b4e8484927563663c3
+      internalID: -40629349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guild_Leader_62
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 5
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8525d7cd58d480742b8fd4a2fb38f7ac
+      internalID: 1448906960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guild_Leader_63
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 5
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29618cd20c3e2734b98da3a33bac9d58
+      internalID: -557712170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guild_Leader_64
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 11
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a65a769eb28f694593bb061140a6668
+      internalID: 801174579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guild_Leader_65
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 3
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c1df3d8cec1c44dbbd88df6da17d95
+      internalID: -1061668342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guild_Leader_66
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 5
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246c36689439b1146aaa01909cad87ec
+      internalID: -2056825644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guild_Leader_67
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 6
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122931aff6dc93a4cb6859d892d71b43
+      internalID: 798747015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a51e63d3996e5134a8854fd4829bfcd2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Guild_Leader_0: 1094441014
+      Guild_Leader_1: 2063487519
+      Guild_Leader_10: 448097724
+      Guild_Leader_11: 1475992357
+      Guild_Leader_12: -1443476237
+      Guild_Leader_13: 438265070
+      Guild_Leader_14: 1273368453
+      Guild_Leader_15: 1451850683
+      Guild_Leader_16: -975856747
+      Guild_Leader_17: -1026589891
+      Guild_Leader_18: 1820950934
+      Guild_Leader_19: 1362743048
+      Guild_Leader_2: -2068472402
+      Guild_Leader_20: -223869141
+      Guild_Leader_21: -841399722
+      Guild_Leader_22: -343764865
+      Guild_Leader_23: -602485385
+      Guild_Leader_24: -1194787657
+      Guild_Leader_25: 945202638
+      Guild_Leader_26: 1127411417
+      Guild_Leader_27: 1468561320
+      Guild_Leader_28: 1394103409
+      Guild_Leader_29: 495279993
+      Guild_Leader_3: -108183793
+      Guild_Leader_30: -503866475
+      Guild_Leader_31: 1442418703
+      Guild_Leader_32: 1773050568
+      Guild_Leader_33: -1960145029
+      Guild_Leader_34: -2115791967
+      Guild_Leader_35: 796703367
+      Guild_Leader_36: 713680508
+      Guild_Leader_37: 1357018395
+      Guild_Leader_38: -1446105985
+      Guild_Leader_39: 1423932973
+      Guild_Leader_4: -1597502941
+      Guild_Leader_40: 1936256569
+      Guild_Leader_41: 1610166913
+      Guild_Leader_42: 1649247269
+      Guild_Leader_43: 559613877
+      Guild_Leader_44: -1146010297
+      Guild_Leader_45: -238443707
+      Guild_Leader_46: -2138290651
+      Guild_Leader_47: -1488544858
+      Guild_Leader_48: 1772844952
+      Guild_Leader_49: 2094760420
+      Guild_Leader_5: -2097702712
+      Guild_Leader_50: -1006132795
+      Guild_Leader_51: 1141242324
+      Guild_Leader_52: 1520555002
+      Guild_Leader_53: -991885690
+      Guild_Leader_54: -1829367527
+      Guild_Leader_55: -2076080618
+      Guild_Leader_56: -553002508
+      Guild_Leader_57: -1052537250
+      Guild_Leader_58: -1238579484
+      Guild_Leader_59: -1010129228
+      Guild_Leader_6: 531177913
+      Guild_Leader_60: -1223060520
+      Guild_Leader_61: -40629349
+      Guild_Leader_62: 1448906960
+      Guild_Leader_63: -557712170
+      Guild_Leader_64: 801174579
+      Guild_Leader_65: -1061668342
+      Guild_Leader_66: -2056825644
+      Guild_Leader_67: 798747015
+      Guild_Leader_7: -968252439
+      Guild_Leader_8: -852697813
+      Guild_Leader_9: 902086863
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

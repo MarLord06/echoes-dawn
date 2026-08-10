@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 547d8b0914934cb4fa82923063fbf10f, type: 3}
+  m_Name: Dialogo NPC3
+  m_EditorClassIdentifier: 
+  lines:
+  - speaker: {fileID: 11400000, guid: 1b36dbabd580a1f48a9a4ec031caf7a6, type: 2}
+    text: Semejaaaaante pepino
+  - speaker: {fileID: 11400000, guid: 1b36dbabd580a1f48a9a4ec031caf7a6, type: 2}
+    text: "que me encontr\xE9 ayer"
+  - speaker: {fileID: 11400000, guid: 1b36dbabd580a1f48a9a4ec031caf7a6, type: 2}
+    text: "Cr\xE9ame que era un brazo"
+  - speaker: {fileID: 11400000, guid: 1b36dbabd580a1f48a9a4ec031caf7a6, type: 2}
+    text: "Lo agarr\xE9 y lo cocin\xE9"
+  options: []

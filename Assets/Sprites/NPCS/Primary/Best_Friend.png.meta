@@ -1,0 +1,1900 @@
+fileFormatVersion: 2
+guid: 1a710028a80c86b4987527916ef4971c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3089399454706432120
+    second: Friend PG NPC_0
+  - first:
+      213: -5088940020758497692
+    second: Friend PG NPC_1
+  - first:
+      213: 421770430038981869
+    second: Friend PG NPC_2
+  - first:
+      213: -4553334856459515097
+    second: Friend PG NPC_3
+  - first:
+      213: 6137191973702936379
+    second: Friend PG NPC_4
+  - first:
+      213: 1908059009435170254
+    second: Friend PG NPC_5
+  - first:
+      213: 4860095850077933260
+    second: Friend PG NPC_6
+  - first:
+      213: 7535003323930564395
+    second: Friend PG NPC_7
+  - first:
+      213: -3093580044278930994
+    second: Friend PG NPC_8
+  - first:
+      213: -6065482524926313940
+    second: Friend PG NPC_9
+  - first:
+      213: 5900718669537109492
+    second: Friend PG NPC_10
+  - first:
+      213: 6055742896460186351
+    second: Friend PG NPC_11
+  - first:
+      213: -503269251565642228
+    second: Friend PG NPC_12
+  - first:
+      213: 5551257990851714989
+    second: Friend PG NPC_13
+  - first:
+      213: -3059442855302696191
+    second: Friend PG NPC_14
+  - first:
+      213: 1478905680849866516
+    second: Friend PG NPC_15
+  - first:
+      213: -5402332093898082001
+    second: Friend PG NPC_16
+  - first:
+      213: -2604859866079914345
+    second: Friend PG NPC_17
+  - first:
+      213: 1304426221243650450
+    second: Friend PG NPC_18
+  - first:
+      213: 8816078095307905530
+    second: Friend PG NPC_19
+  - first:
+      213: 3433232011550870238
+    second: Friend PG NPC_20
+  - first:
+      213: 8759030944454236139
+    second: Friend PG NPC_21
+  - first:
+      213: 4755727512368544925
+    second: Friend PG NPC_22
+  - first:
+      213: 5823167656873991779
+    second: Friend PG NPC_23
+  - first:
+      213: 2370077410669256827
+    second: Friend PG NPC_24
+  - first:
+      213: -1986307330422056881
+    second: Friend PG NPC_25
+  - first:
+      213: -2232978742563686429
+    second: Friend PG NPC_26
+  - first:
+      213: 4731841707044177159
+    second: Friend PG NPC_27
+  - first:
+      213: -7289618199708740132
+    second: Friend PG NPC_28
+  - first:
+      213: -6484810483667639162
+    second: Friend PG NPC_29
+  - first:
+      213: 8603784161491202345
+    second: Friend PG NPC_30
+  - first:
+      213: 3476849782947803995
+    second: Friend PG NPC_31
+  - first:
+      213: -6578330402173429009
+    second: Friend PG NPC_32
+  - first:
+      213: -4066102165462012341
+    second: Friend PG NPC_33
+  - first:
+      213: 4572713199494253207
+    second: Friend PG NPC_34
+  - first:
+      213: -3548428724619108905
+    second: Friend PG NPC_35
+  - first:
+      213: -4134924112060441932
+    second: Friend PG NPC_36
+  - first:
+      213: -5443709050664931291
+    second: Friend PG NPC_37
+  - first:
+      213: 1116724270166574799
+    second: Friend PG NPC_38
+  - first:
+      213: 1225959873323920698
+    second: Friend PG NPC_39
+  - first:
+      213: 8893856454479490087
+    second: Friend PG NPC_40
+  - first:
+      213: 6812555845684713964
+    second: Friend PG NPC_41
+  - first:
+      213: 3878007632116257522
+    second: Friend PG NPC_42
+  - first:
+      213: 9072449160676822454
+    second: Friend PG NPC_43
+  - first:
+      213: -46034116784380808
+    second: Friend PG NPC_44
+  - first:
+      213: -8766741836933961388
+    second: Friend PG NPC_45
+  - first:
+      213: 459480292788742444
+    second: Friend PG NPC_46
+  - first:
+      213: -1928877333525721895
+    second: Friend PG NPC_47
+  - first:
+      213: 2492940271335214491
+    second: Friend PG NPC_48
+  - first:
+      213: 2203875128944114069
+    second: Friend PG NPC_49
+  - first:
+      213: 5114592856999985325
+    second: Friend PG NPC_50
+  - first:
+      213: -778990145965772707
+    second: Friend PG NPC_51
+  - first:
+      213: 3710617824547486001
+    second: Friend PG NPC_52
+  - first:
+      213: -6090174130035336990
+    second: Friend PG NPC_53
+  - first:
+      213: -1915136237039051613
+    second: Friend PG NPC_54
+  - first:
+      213: -8134115193066740312
+    second: Friend PG NPC_55
+  - first:
+      213: -5514126113440750205
+    second: Friend PG NPC_56
+  - first:
+      213: 7519292307145161576
+    second: Friend PG NPC_57
+  - first:
+      213: 6408254931088532530
+    second: Friend PG NPC_58
+  - first:
+      213: 237486858158878248
+    second: Friend PG NPC_59
+  - first:
+      213: -3672098912968392015
+    second: Friend PG NPC_60
+  - first:
+      213: -3759415778382810472
+    second: Friend PG NPC_61
+  - first:
+      213: -6672772105410086068
+    second: Friend PG NPC_62
+  - first:
+      213: -5923908608687228000
+    second: Friend PG NPC_63
+  - first:
+      213: -3772830952237710209
+    second: Friend PG NPC_64
+  - first:
+      213: -8350916170526014392
+    second: Friend PG NPC_65
+  - first:
+      213: -6286899509314894031
+    second: Friend PG NPC_66
+  - first:
+      213: 4007366439995534042
+    second: Friend PG NPC_67
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Best_Friend_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 341
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ddfb86b7431a14d8159b17e736b72f
+      internalID: -1294953082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Best_Friend_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 341
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9cfe4791d7e7514db083e6ecf98f828
+      internalID: 390973614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Best_Friend_2
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 341
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1164fbeb2e339ff4da9d301fc1f2f21a
+      internalID: -976120806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Best_Friend_3
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 341
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7937315a68085d4e9ff03bde3c5eb0b
+      internalID: 352832971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Best_Friend_4
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 341
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adcb58d1c24e1674eb90499136fd4a95
+      internalID: -515582501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Best_Friend_5
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 339
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776e793e957f52c4085d9acfe4e0aec3
+      internalID: 2124104300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Best_Friend_6
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 341
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa251ad22a8268489faf2b6f84265ea
+      internalID: 535983488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Best_Friend_7
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 341
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c5942d10c8b4344a42908ed960c919
+      internalID: -162591916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Best_Friend_8
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 342
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea43935acea8684b9969802aa2089d6
+      internalID: -2103418275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Best_Friend_9
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 341
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d383b01ddcc7b354e94fd7eda9d84343
+      internalID: -971255928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Best_Friend_10
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 341
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554b678523784d143a939796ca9b8090
+      internalID: 108452600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Best_Friend_11
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 293
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c373b6031354c834d8e99100732da30e
+      internalID: -1530194381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Best_Friend_12
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 293
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff49886226296447ad2069dab44ed6e
+      internalID: 1541335326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Best_Friend_13
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 293
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7887b0e81b2fc5c4d98bb81427dfead1
+      internalID: -168854399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Best_Friend_14
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 293
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9042b7da0dc29045bec283807ba86a0
+      internalID: 1648065817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Best_Friend_15
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 293
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7266560e613ec4d4da727acee786c356
+      internalID: 1070861098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Best_Friend_16
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 292
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0469bc68c5c59a24ba0942489761f8ba
+      internalID: 1774161634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Best_Friend_17
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 294
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9f47b8d9884494fac5d194c6f63a34
+      internalID: -377993029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Best_Friend_18
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 293
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7fc40ca386efcb469622d7eac39cfa3
+      internalID: 1631186689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Best_Friend_19
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 293
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c309229f2050e44c8fe869e4c38ddf2
+      internalID: 1585361199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Best_Friend_20
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 293
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3da5460541b1446b0ae44f95fe1c12
+      internalID: -344178676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Best_Friend_21
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 293
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebac5c1c5d63b0d46b3ba39fa87f9d3d
+      internalID: -884089753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Best_Friend_22
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 245
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2a2fd4763c7ee4f9be0c42f8cb5229
+      internalID: -940533134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Best_Friend_23
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 245
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a79b278c1b3504e869a0c49ee0cf50
+      internalID: -1689129520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Best_Friend_24
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 245
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054996768861cdb4ba4843aa399543c2
+      internalID: 294166500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Best_Friend_25
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 245
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14e6044c4cce0b4baf6b50f498bb3f4
+      internalID: -291210659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Best_Friend_26
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 245
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8d2d2ead08c7c44bdba67555b6e5e7
+      internalID: -1892562787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Best_Friend_27
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 244
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9dcef199b422349af120fb996bae94
+      internalID: 809263101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Best_Friend_28
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 246
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7388612d3207d13408fff9736c218fb9
+      internalID: 538195438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Best_Friend_29
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 245
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a976a7bdb25fb249bf47890bef7b558
+      internalID: 2781483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Best_Friend_30
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 245
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d544cd3e009d64eb3f5fe41fa05a70
+      internalID: 2116770016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Best_Friend_31
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 245
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b70c8e4f7885f428c53e038cc2ad04
+      internalID: 1280598938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Best_Friend_32
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 245
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c719bd95f20074db146ecf39eea916
+      internalID: 1645696901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Best_Friend_33
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 197
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b3f5156605c944ba9bd042f9f859b6
+      internalID: -1775014818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Best_Friend_34
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 197
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e30b503badd6d546a3d072207d2eedd
+      internalID: 503809656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Best_Friend_35
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 197
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5660963b76d5d794b8b71aee5739103c
+      internalID: -1926718412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Best_Friend_36
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 197
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458e92051d1c7ff408d106626bf8a2e0
+      internalID: 364003435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Best_Friend_37
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 197
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9eab0e9d239a64fb124eb27a48986b
+      internalID: 1771533401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Best_Friend_38
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 197
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324b599e07c891a45972fdf64bc0fbef
+      internalID: 1291931890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Best_Friend_39
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 198
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5334f3f491c6064409a191ac495291f5
+      internalID: -1498785492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Best_Friend_40
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 198
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d7908f10b8bc749b6119b6d7862199
+      internalID: -1123463148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Best_Friend_41
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 196
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7107c23efabec8b45a2cd117a04a9f14
+      internalID: -1242044201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Best_Friend_42
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 197
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab797b430fde0df468e3efa553b089e1
+      internalID: 152841049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Best_Friend_43
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 197
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edeaf9fcb910514499c1cde148bcec4f
+      internalID: -1759487708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Best_Friend_44
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 147
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1f334a9e2e19d409177bb8722bad2d
+      internalID: -1839295514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Best_Friend_45
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 149
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffdbb70233718574494d9c46d23574d1
+      internalID: 1170525673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Best_Friend_46
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 151
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1bb6401c02bda438edf7c7f20ce22c
+      internalID: -2130052087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Best_Friend_47
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 149
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee26c6333a113541a570878205c6410
+      internalID: 1350627612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Best_Friend_48
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 148
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dcc7eef16727174eb0284eb24b981d8
+      internalID: -511744690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Best_Friend_49
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 149
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b7ad24e044a9b42bf08e6d4a997334
+      internalID: -2104228099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Best_Friend_50
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 100
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2b7e54df4985049978f73d3be5bc74
+      internalID: 1881707437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Best_Friend_51
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 99
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61bce0bae23c17641ad5bebc3458bb3b
+      internalID: -722912162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Best_Friend_52
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 103
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461e4c20888382949b6716dd6c2f502f
+      internalID: -1353688041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Best_Friend_53
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 100
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846fd6e7f1b559d49b6bce327e00701b
+      internalID: 434000685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Best_Friend_54
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 101
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6c684c9c470754aa1e24ae813ca3b9
+      internalID: 1904812167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Best_Friend_55
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 101
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8fcbb42d16282c41bbd346de21b9e2d
+      internalID: 1060120869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Best_Friend_56
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 52
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34929d46447995247b4f3b13528dce3a
+      internalID: -503310187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Best_Friend_57
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 50
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d777ec63f13a7804ebd07c9ac28d647f
+      internalID: -1893304356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Best_Friend_58
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 55
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9125d1f9af772684ebc1c905b3878cde
+      internalID: -1327780846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Best_Friend_59
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 52
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a1cf90ca813a04cacc4fe15abdc9ef
+      internalID: 1317457496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Best_Friend_60
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 53
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741d9f3abf9949e4a8da9274ee83f92f
+      internalID: 555944460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Best_Friend_61
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 53
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f18279147f9b7144b752cbffc3a035c
+      internalID: -1193355813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Best_Friend_62
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 5
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0e0064edb2cd54ca6653a0e016250f
+      internalID: -1505733505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Best_Friend_63
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 5
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6b5febca9011a4aa7520da3115cf9c
+      internalID: -275984704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Best_Friend_64
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 11
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc6e98bfd7e557449b1f41146c1d0ea
+      internalID: -1577465101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Best_Friend_65
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 3
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b39eaa1eae54144ea85b59b7c899688
+      internalID: 737990530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Best_Friend_66
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 5
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552c91eb78317424aa5e075125270547
+      internalID: 903410230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Best_Friend_67
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 6
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2198886e16d7f142a08db64bdf2c355
+      internalID: 1489625357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9a9e709b039646f478161fcf51d2ec0e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Best_Friend_0: -1294953082
+      Best_Friend_1: 390973614
+      Best_Friend_10: 108452600
+      Best_Friend_11: -1530194381
+      Best_Friend_12: 1541335326
+      Best_Friend_13: -168854399
+      Best_Friend_14: 1648065817
+      Best_Friend_15: 1070861098
+      Best_Friend_16: 1774161634
+      Best_Friend_17: -377993029
+      Best_Friend_18: 1631186689
+      Best_Friend_19: 1585361199
+      Best_Friend_2: -976120806
+      Best_Friend_20: -344178676
+      Best_Friend_21: -884089753
+      Best_Friend_22: -940533134
+      Best_Friend_23: -1689129520
+      Best_Friend_24: 294166500
+      Best_Friend_25: -291210659
+      Best_Friend_26: -1892562787
+      Best_Friend_27: 809263101
+      Best_Friend_28: 538195438
+      Best_Friend_29: 2781483
+      Best_Friend_3: 352832971
+      Best_Friend_30: 2116770016
+      Best_Friend_31: 1280598938
+      Best_Friend_32: 1645696901
+      Best_Friend_33: -1775014818
+      Best_Friend_34: 503809656
+      Best_Friend_35: -1926718412
+      Best_Friend_36: 364003435
+      Best_Friend_37: 1771533401
+      Best_Friend_38: 1291931890
+      Best_Friend_39: -1498785492
+      Best_Friend_4: -515582501
+      Best_Friend_40: -1123463148
+      Best_Friend_41: -1242044201
+      Best_Friend_42: 152841049
+      Best_Friend_43: -1759487708
+      Best_Friend_44: -1839295514
+      Best_Friend_45: 1170525673
+      Best_Friend_46: -2130052087
+      Best_Friend_47: 1350627612
+      Best_Friend_48: -511744690
+      Best_Friend_49: -2104228099
+      Best_Friend_5: 2124104300
+      Best_Friend_50: 1881707437
+      Best_Friend_51: -722912162
+      Best_Friend_52: -1353688041
+      Best_Friend_53: 434000685
+      Best_Friend_54: 1904812167
+      Best_Friend_55: 1060120869
+      Best_Friend_56: -503310187
+      Best_Friend_57: -1893304356
+      Best_Friend_58: -1327780846
+      Best_Friend_59: 1317457496
+      Best_Friend_6: 535983488
+      Best_Friend_60: 555944460
+      Best_Friend_61: -1193355813
+      Best_Friend_62: -1505733505
+      Best_Friend_63: -275984704
+      Best_Friend_64: -1577465101
+      Best_Friend_65: 737990530
+      Best_Friend_66: 903410230
+      Best_Friend_67: 1489625357
+      Best_Friend_7: -162591916
+      Best_Friend_8: -2103418275
+      Best_Friend_9: -971255928
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

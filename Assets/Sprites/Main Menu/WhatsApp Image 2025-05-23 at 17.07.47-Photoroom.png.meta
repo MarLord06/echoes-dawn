@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: 00b88d022d8a5a0488329269476d69e9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6074835347045425690
+    second: WhatsApp Image 2025-05-23 at 17.07.47-Photoroom_0
+  - first:
+      213: 4977125738723425691
+    second: WhatsApp Image 2025-05-23 at 17.07.47-Photoroom_1
+  - first:
+      213: 6581524363313200244
+    second: WhatsApp Image 2025-05-23 at 17.07.47-Photoroom_2
+  - first:
+      213: -6941182267107803315
+    second: WhatsApp Image 2025-05-23 at 17.07.47-Photoroom_3
+  - first:
+      213: 7774572895527294657
+    second: WhatsApp Image 2025-05-23 at 17.07.47-Photoroom_4
+  - first:
+      213: -8577269072200560003
+    second: WhatsApp Image 2025-05-23 at 17.07.47-Photoroom_5
+  - first:
+      213: 7528488303200793697
+    second: WhatsApp Image 2025-05-23 at 17.07.47-Photoroom_6
+  - first:
+      213: -5533847623403718184
+    second: WhatsApp Image 2025-05-23 at 17.07.47-Photoroom_7
+  - first:
+      213: 2390083567315589111
+    second: WhatsApp Image 2025-05-23 at 17.07.47-Photoroom_8
+  - first:
+      213: 5612789256650596707
+    second: WhatsApp Image 2025-05-23 at 17.07.47-Photoroom_9
+  - first:
+      213: 177907200957536504
+    second: WhatsApp Image 2025-05-23 at 17.07.47-Photoroom_10
+  - first:
+      213: 3931302372583253725
+    second: WhatsApp Image 2025-05-23 at 17.07.47-Photoroom_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WhatsApp Image 2025-05-23 at 17.07.47-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 27
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6edde5e0079d1bba0800000000000000
+      internalID: -6074835347045425690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhatsApp Image 2025-05-23 at 17.07.47-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 32
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d301b4d7d421540800000000000000
+      internalID: 4977125738723425691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhatsApp Image 2025-05-23 at 17.07.47-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 33
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47cbcdbb985465b50800000000000000
+      internalID: 6581524363313200244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhatsApp Image 2025-05-23 at 17.07.47-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 33
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f7cc70187fbaf90800000000000000
+      internalID: -6941182267107803315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhatsApp Image 2025-05-23 at 17.07.47-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 27
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6d8466bd4d4eb60800000000000000
+      internalID: 7774572895527294657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhatsApp Image 2025-05-23 at 17.07.47-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 33
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d729a80293b67f880800000000000000
+      internalID: -8577269072200560003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhatsApp Image 2025-05-23 at 17.07.47-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 33
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16477ff59309a7860800000000000000
+      internalID: 7528488303200793697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhatsApp Image 2025-05-23 at 17.07.47-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 27
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d9b1e5f7e2d333b0800000000000000
+      internalID: -5533847623403718184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhatsApp Image 2025-05-23 at 17.07.47-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 32
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f7185d57584b2120800000000000000
+      internalID: 2390083567315589111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhatsApp Image 2025-05-23 at 17.07.47-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 29
+        width: 57
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 361a9c15712a4ed40800000000000000
+      internalID: 5612789256650596707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhatsApp Image 2025-05-23 at 17.07.47-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 32
+        width: 75
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f8de0c18ad087200800000000000000
+      internalID: 177907200957536504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhatsApp Image 2025-05-23 at 17.07.47-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 33
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6a97ecdaace8630800000000000000
+      internalID: 3931302372583253725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      WhatsApp Image 2025-05-23 at 17.07.47-Photoroom_0: -6074835347045425690
+      WhatsApp Image 2025-05-23 at 17.07.47-Photoroom_1: 4977125738723425691
+      WhatsApp Image 2025-05-23 at 17.07.47-Photoroom_10: 177907200957536504
+      WhatsApp Image 2025-05-23 at 17.07.47-Photoroom_11: 3931302372583253725
+      WhatsApp Image 2025-05-23 at 17.07.47-Photoroom_2: 6581524363313200244
+      WhatsApp Image 2025-05-23 at 17.07.47-Photoroom_3: -6941182267107803315
+      WhatsApp Image 2025-05-23 at 17.07.47-Photoroom_4: 7774572895527294657
+      WhatsApp Image 2025-05-23 at 17.07.47-Photoroom_5: -8577269072200560003
+      WhatsApp Image 2025-05-23 at 17.07.47-Photoroom_6: 7528488303200793697
+      WhatsApp Image 2025-05-23 at 17.07.47-Photoroom_7: -5533847623403718184
+      WhatsApp Image 2025-05-23 at 17.07.47-Photoroom_8: 2390083567315589111
+      WhatsApp Image 2025-05-23 at 17.07.47-Photoroom_9: 5612789256650596707
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

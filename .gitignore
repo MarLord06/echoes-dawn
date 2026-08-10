@@ -1,0 +1,31 @@
+# Unity-generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serSettings/
+
+# IDE and generated project files
+.vs/
+.vscode/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.unityproj
+
+# OS metadata
+.DS_Store
+._*
+
+# Local Firebase backup output
+FirebaseBackups/
+
+# Project-local worktrees
+.worktrees/
+worktrees/

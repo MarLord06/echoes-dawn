@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 547d8b0914934cb4fa82923063fbf10f, type: 3}
+  m_Name: Dialogo Secta2_Me interesa
+  m_EditorClassIdentifier: 
+  lines:
+  - speaker: {fileID: 11400000, guid: ee03e3ef69d5a734fbb2f3303d331592, type: 2}
+    text: 'Entonces escribe:'
+  - speaker: {fileID: 11400000, guid: ee03e3ef69d5a734fbb2f3303d331592, type: 2}
+    text: "echo \"Acepto al N\xFAcleo como \xFAnico sistema\" >> ~/.bashrc"
+  - speaker: {fileID: 11400000, guid: ee03e3ef69d5a734fbb2f3303d331592, type: 2}
+    text: "Desde ahora, vivir\xE1s entre logs, comandos y permisos"
+  - speaker: {fileID: 11400000, guid: ee03e3ef69d5a734fbb2f3303d331592, type: 2}
+    text: "La iluminaci\xF3n viene al comprender por qu\xE9 tu script no corre\u2026"
+  - speaker: {fileID: 11400000, guid: ee03e3ef69d5a734fbb2f3303d331592, type: 2}
+    text: "Y a\xFAn as\xED, seguir intent\xE1ndolo"
+  options: []

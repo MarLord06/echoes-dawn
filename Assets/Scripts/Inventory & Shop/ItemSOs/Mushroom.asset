@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d27776c4dd7c414f896b6640a135a92, type: 3}
+  m_Name: Mushroom
+  m_EditorClassIdentifier: 
+  itemID: mushroom_id
+  itemName: "Champi\xF1\xF3n"
+  itemDescription: "champi\xF1\xF3n\r"
+  icon: {fileID: 8793915729297761979, guid: ea5c4cc832906c748b1921b2524d5dc5, type: 3}
+  isGold: 0
+  stackSize: 5
+  currentHealth: 1
+  maxHealth: 0
+  speed: 0
+  damage: 0
+  duration: 0
+  Usable: 1
+  spriteScale: {x: 2, y: 2, z: 1}

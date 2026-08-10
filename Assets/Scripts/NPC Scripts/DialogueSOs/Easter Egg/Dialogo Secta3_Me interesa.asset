@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 547d8b0914934cb4fa82923063fbf10f, type: 3}
+  m_Name: Dialogo Secta3_Me interesa
+  m_EditorClassIdentifier: 
+  lines:
+  - speaker: {fileID: 11400000, guid: ee03e3ef69d5a734fbb2f3303d331592, type: 2}
+    text: "(Te entrega un pergamino\u2026 lleno de comandos en Bash)"
+  - speaker: {fileID: 11400000, guid: ee03e3ef69d5a734fbb2f3303d331592, type: 2}
+    text: "Lee esto cuando est\xE9s solo. Hazlo con cuidado"
+  - speaker: {fileID: 11400000, guid: ee03e3ef69d5a734fbb2f3303d331592, type: 2}
+    text: "No todos los scripts tienen salida\u2026"
+  - speaker: {fileID: 11400000, guid: ee03e3ef69d5a734fbb2f3303d331592, type: 2}
+    text: "Algunos solo te muestran qui\xE9n eres"
+  - speaker: {fileID: 11400000, guid: ee03e3ef69d5a734fbb2f3303d331592, type: 2}
+    text: "Pero todos siguen el camino del c\xF3digo libre"
+  - speaker: {fileID: 11400000, guid: ee03e3ef69d5a734fbb2f3303d331592, type: 2}
+    text: "\xBFT\xFA qu\xE9 eliges? \xBFPermanecer en la ignorancia\u2026 o escribir
+      tu destino en Bash?"
+  options: []
