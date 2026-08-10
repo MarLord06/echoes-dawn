@@ -40,17 +40,16 @@ public class Player_Combat : MonoBehaviour
     {
         Collider2D[] enemies = Physics2D.OverlapCircleAll(attackPoint.position, StatsManager.Instance.weaponRange, enemyLayer);
 
-        foreach (Collider2D enemy in enemies)
+        foreach (Collider2D enemy in CombatTargetResolver.GetDistinctDamageableColliders(enemies))
         {
-            if (enemy.isTrigger) continue;
+            if (!enemy.TryGetComponent(out Enemy_Health enemyHealth) ||
+                !enemy.TryGetComponent(out Enemy_Knockback enemyKnockback))
             {
-                if (enemies.Length > 0)
-                {
-                    enemies[0].GetComponent<Enemy_Health>().ChangeHealth(-StatsManager.Instance.damage);
-                    enemies[0].GetComponent<Enemy_Knockback>().Knockback(transform, StatsManager.Instance.knockbackForce, StatsManager.Instance.knockbackTime, StatsManager.Instance.stunTime);
-                }
+                continue;
             }
 
+            enemyHealth.ChangeHealth(-StatsManager.Instance.damage);
+            enemyKnockback.Knockback(transform, StatsManager.Instance.knockbackForce, StatsManager.Instance.knockbackTime, StatsManager.Instance.stunTime);
         }
     }
 
