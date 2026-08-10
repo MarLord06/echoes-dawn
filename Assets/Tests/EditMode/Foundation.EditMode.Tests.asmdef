@@ -1,0 +1,12 @@
+{
+  "name": "Foundation.EditMode.Tests",
+  "references": [
+    "Foundation"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ]
+}
