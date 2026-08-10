@@ -227,7 +227,7 @@ public class InventoryStackAllocatorTests
 
         int remainder = InventoryStackAllocator.Allocate(8, 3, slots);
 
-        Assert.That(remainder, Is.EqualTo(0));
+        Assert.That(remainder, Is.EqualTo(1));
         Assert.That(slots[0].Quantity, Is.EqualTo(3));
         Assert.That(slots[1].Quantity, Is.EqualTo(3));
         Assert.That(slots[2].Quantity, Is.EqualTo(3));
@@ -275,7 +275,7 @@ Refactor `InventoryManager.AddItem` to build an allocation in the same order as 
 
 - [ ] **Step 4: Verify green and perform the runtime smoke test**
 
-Re-run EditMode tests. In Play Mode, begin with one compatible 2/3 stack and two empty slots, pick up eight units, and verify 3/3/3. Then fill every slot, pick up four units, and verify one world loot object contains four.
+Re-run EditMode tests. In Play Mode, begin with one compatible 2/3 stack and two empty slots, pick up eight units, verify 3/3/3, and verify one world loot object contains the one-unit overflow. Then fill every slot, pick up four units, and verify one world loot object contains four.
 
 - [ ] **Step 5: Commit**
 

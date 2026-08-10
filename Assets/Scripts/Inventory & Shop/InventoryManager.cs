@@ -1,3 +1,4 @@
+using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
 
@@ -36,6 +37,11 @@ public class InventoryManager : MonoBehaviour
 
     public void AddItem(ItemSO itemSO, int quantity)
     {
+        if (itemSO == null || quantity <= 0)
+        {
+            return;
+        }
+
         if (itemSO.isGold)
         {
             gold += quantity;
@@ -45,39 +51,40 @@ public class InventoryManager : MonoBehaviour
             return;
         }
 
-        foreach (var slot in itemSlots) // It is the same item and there is room left
+        var allocations = new List<InventoryStackAllocation>(itemSlots.Length);
+        foreach (InventorySlot slot in itemSlots)
         {
-            if (slot.itemSO == itemSO && slot.quantity < itemSO.stackSize)
-            {
-                int availableSpace = itemSO.stackSize - slot.quantity;
-                int amountToAdd = Mathf.Min(quantity, availableSpace);
-
-                slot.quantity += amountToAdd;
-                quantity -= amountToAdd;
-
-                slot.UpdateUI();
-
-                if (quantity <= 0)
-                {
-                    return; // All items added
-                }
-            }
+            allocations.Add(new InventoryStackAllocation(
+                slot.itemSO == itemSO,
+                slot.itemSO == null,
+                slot.quantity));
         }
 
-        foreach (var slot in itemSlots) // If items remain we will now look at the empty slots
+        int remainder = InventoryStackAllocator.Allocate(quantity, itemSO.stackSize, allocations);
+
+        for (int i = 0; i < itemSlots.Length; i++)
         {
-            if (slot.itemSO == null)
+            InventorySlot slot = itemSlots[i];
+            InventoryStackAllocation allocation = allocations[i];
+
+            if (slot.quantity == allocation.Quantity)
             {
-                int amountToAdd = Mathf.Min(itemSO.stackSize, quantity);
+                continue;
+            }
+
+            if (slot.itemSO == null && allocation.Quantity > 0)
+            {
                 slot.itemSO = itemSO;
-                slot.quantity = amountToAdd;
-                slot.UpdateUI();
-                return;
             }
+
+            slot.quantity = allocation.Quantity;
+            slot.UpdateUI();
         }
 
-        if (quantity > 0)
-            DropLoot(itemSO, quantity);
+        if (remainder > 0)
+        {
+            DropLoot(itemSO, remainder);
+        }
     }
 
     public void DropItem(InventorySlot slot)
