@@ -28,7 +28,7 @@ public class InventorySlot : MonoBehaviour, IPointerClickHandler
 
     void OnDisable()
     {
-        ShopKeeper.OnShopStateChanged -= HandleShopStateChanged;
+        ShopKeeper.OnShopStateChanged += HandleShopStateChanged;
     }
 
     private void HandleShopStateChanged(ShopManager shopManager, bool isOpen)
@@ -46,12 +46,9 @@ public class InventorySlot : MonoBehaviour, IPointerClickHandler
 
                 if (activeShop != null)
                 {
-                    if (activeShop.TrySellItem(itemSO))
-                    {
-                        quantity--;
-                        UpdateUI();
-                        GameManager.Instance.UpdateData();
-                    }
+                    activeShop.SellItem(itemSO);
+                    quantity--;
+                    UpdateUI();
                 }
                 else
                 {
