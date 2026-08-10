@@ -14,7 +14,7 @@
 - Do not add content, dependencies, scene edits, Firebase changes, input migration, or cross-scene loot persistence.
 - Use test-first red-green-refactor for every new rule.
 - Keep generated folders and `TestResults/` out of Git.
-- Push every completed commit to `origin/main`.
+- Push every completed commit to the active feature branch; merge decisions remain separate from implementation.
 
 ---
 
@@ -227,7 +227,7 @@ public class InventoryStackAllocatorTests
 
         int remainder = InventoryStackAllocator.Allocate(8, 3, slots);
 
-        Assert.That(remainder, Is.EqualTo(0));
+        Assert.That(remainder, Is.EqualTo(1));
         Assert.That(slots[0].Quantity, Is.EqualTo(3));
         Assert.That(slots[1].Quantity, Is.EqualTo(3));
         Assert.That(slots[2].Quantity, Is.EqualTo(3));
@@ -275,7 +275,7 @@ Refactor `InventoryManager.AddItem` to build an allocation in the same order as 
 
 - [ ] **Step 4: Verify green and perform the runtime smoke test**
 
-Re-run EditMode tests. In Play Mode, begin with one compatible 2/3 stack and two empty slots, pick up eight units, and verify 3/3/3. Then fill every slot, pick up four units, and verify one world loot object contains four.
+Re-run EditMode tests. In Play Mode, begin with one compatible 2/3 stack and two empty slots, pick up eight units, verify 3/3/3, and verify one world loot object contains the one-unit overflow. Then fill every slot, pick up four units, and verify one world loot object contains four.
 
 - [ ] **Step 5: Commit**
 
@@ -297,7 +297,7 @@ git push
 - Produces `bool ShopTransactionPolicy.CanBuy(int gold, int price, bool hasSpace)` and `bool ShopTransactionPolicy.CanSell(bool isListed)`.
 - Produces `bool ShopManager.TryBuyItem(ItemSO itemSO, int price)` and `bool ShopManager.TrySellItem(ItemSO itemSO)`.
 - `InventorySlot.OnPointerClick` decrements only after `TrySellItem(itemSO)` returns true.
-- Each successful transaction invokes `GameManager.Instance.UpdateData()` once; failed transactions invoke it zero times.
+- Each successful transaction invokes `GameManager.Instance.UpdateData()` exactly once after both the gold and item-quantity mutations are complete; failed transactions invoke it zero times.
 
 - [ ] **Step 1: Write failing transaction-policy tests**
 
@@ -343,7 +343,7 @@ public static class ShopTransactionPolicy
 
 Change `TryBuyItem` to return `false` for a null item or `!ShopTransactionPolicy.CanBuy(inventoryManager.gold, price, HasSpaceForItem(itemSO))`. On success: deduct gold, update its text, call `InventoryManager.AddItem`, call `GameManager.Instance.UpdateData()` once, and return `true`.
 
-Replace `SellItem` with `TrySellItem`: find whether the item is listed, call `ShopTransactionPolicy.CanSell(isListed)`, and return `false` when it is not. On success: add the sale gold, update its text, call `GameManager.Instance.UpdateData()` once, and return `true`.
+Replace `SellItem` with `TrySellItem`: find whether the item is listed, call `ShopTransactionPolicy.CanSell(isListed)`, and return `false` when it is not. On success: add the sale gold, update its text, and return `true`. Do not save here: `InventorySlot` must first decrement the sold quantity and update its UI, then invoke `GameManager.Instance.UpdateData()` once so the saved snapshot contains both changes.
 
 In `InventorySlot.OnDisable`, replace `+=` with:
 
@@ -351,7 +351,7 @@ In `InventorySlot.OnDisable`, replace `+=` with:
 ShopKeeper.OnShopStateChanged -= HandleShopStateChanged;
 ```
 
-In left-click shop mode, decrement quantity and update UI only after a true return from `TrySellItem`.
+In left-click shop mode, decrement quantity and update UI only after a true return from `TrySellItem`, then invoke `GameManager.Instance.UpdateData()` once.
 
 - [ ] **Step 4: Verify green and perform transaction smoke checks**
 

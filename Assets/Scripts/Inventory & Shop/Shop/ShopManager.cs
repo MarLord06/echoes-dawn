@@ -25,18 +25,18 @@ public class ShopManager : MonoBehaviour
         }
     }
 
-    public void TryBuyItem(ItemSO itemSO, int price)
+    public bool TryBuyItem(ItemSO itemSO, int price)
     {
-        if (itemSO != null && inventoryManager.gold >= price)
+        if (itemSO == null || !ShopTransactionPolicy.CanBuy(inventoryManager.gold, price, HasSpaceForItem(itemSO)))
         {
-            if (HasSpaceForItem(itemSO))
-            {
-                inventoryManager.gold -= price;
-                inventoryManager.goldText.text = inventoryManager.gold.ToString();
-                inventoryManager.AddItem(itemSO, 1);
-            }
+            return false;
         }
+
+        inventoryManager.gold -= price;
+        inventoryManager.goldText.text = inventoryManager.gold.ToString();
+        inventoryManager.AddItem(itemSO, 1);
         GameManager.Instance.UpdateData();
+        return true;
     }
 
     private bool HasSpaceForItem(ItemSO itemSO)
@@ -54,21 +54,31 @@ public class ShopManager : MonoBehaviour
 
 
 
-    public void SellItem(ItemSO itemSO)
+    public bool TrySellItem(ItemSO itemSO)
     {
         if (itemSO == null)
-            return;
+        {
+            return false;
+        }
 
-        foreach (var slot in shopSlots)
+        ShopSlot matchingSlot = null;
+        foreach (ShopSlot slot in shopSlots)
         {
             if (slot.itemSO == itemSO)
             {
-                inventoryManager.gold += slot.price - 1;
-                inventoryManager.goldText.text = inventoryManager.gold.ToString();
-                return;
+                matchingSlot = slot;
+                break;
             }
         }
-        GameManager.Instance.UpdateData();
+
+        if (!ShopTransactionPolicy.CanSell(matchingSlot != null))
+        {
+            return false;
+        }
+
+        inventoryManager.gold += matchingSlot.price - 1;
+        inventoryManager.goldText.text = inventoryManager.gold.ToString();
+        return true;
     }
 
 }

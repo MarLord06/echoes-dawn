@@ -26,6 +26,9 @@
 # Local Firebase backup output
 FirebaseBackups/
 
+# Unity Test Runner output
+TestResults/
+
 # Project-local worktrees
 .worktrees/
 worktrees/
